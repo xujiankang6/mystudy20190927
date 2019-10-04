@@ -9,7 +9,6 @@ public class Course {
     private String courseQA;
 
 
-
     @Override
     public String toString() {
         return "Course{" +
@@ -21,7 +20,7 @@ public class Course {
                 '}';
     }
 
-    public Course (CourseBuilder courseBuilder) {
+    public Course(CourseBuilder courseBuilder) {
         this.courseName = courseBuilder.courseName;
         this.courseArticle = courseBuilder.courseArticle;
         this.coursePPT = courseBuilder.coursePPT;
@@ -36,8 +35,6 @@ public class Course {
         private String courseVideo;
         private String courseArticle;
         private String courseQA;
-
-
 
 
         public CourseBuilder setCourseName(String courseName) {
