@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d6f9532-3551-45a7-a040-35dd9fd5c18d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="92" column="69" selection-start-line="92" selection-start-column="69" selection-end-line="92" selection-end-column="69" />
+            <state relative-caret-position="306">
+              <caret line="91" column="7" selection-start-line="91" selection-start-column="7" selection-end-line="91" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,6 +55,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
               <caret line="446" column="32" selection-start-line="446" selection-start-column="32" selection-end-line="446" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/Instant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="269" column="55" selection-start-line="269" selection-start-column="46" selection-end-line="269" selection-end-column="55" />
+              <folding>
+                <element signature="e#11865#11866#0" expanded="true" />
+                <element signature="e#11915#11916#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,15 +127,6 @@
                 <element signature="e#77790#77791#0" expanded="true" />
                 <element signature="e#77841#77842#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/chrono/ChronoLocalDate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="239" column="17" selection-start-line="239" selection-start-column="17" selection-end-line="239" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -212,7 +212,21 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="localtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="singletoninstance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -482,7 +496,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570501350034</updated>
       <workItem from="1570501351955" duration="11545000" />
-      <workItem from="1570515969244" duration="10315000" />
+      <workItem from="1570515969244" duration="11476000" />
     </task>
     <servers />
   </component>
@@ -498,27 +512,27 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21860000" />
+    <option name="totallyTimeSpent" value="23021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4326241" visible="true" weight="0.13432837" />
-      <window_info id="Structure" order="1" sideWeight="0.5673759" side_tool="true" visible="true" weight="0.13432837" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.78571427" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.78571427" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="6" sideWeight="0.5673759" weight="0.13432837" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21492206" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21492206" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32962137" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.2594655" />
@@ -793,10 +807,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/Instant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="269" column="55" selection-start-line="269" selection-start-column="46" selection-end-line="269" selection-end-column="55" />
+          <folding>
+            <element signature="e#11865#11866#0" expanded="true" />
+            <element signature="e#11915#11916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="92" column="69" selection-start-line="92" selection-start-column="69" selection-end-line="92" selection-end-column="69" />
+        <state relative-caret-position="306">
+          <caret line="91" column="7" selection-start-line="91" selection-start-column="7" selection-end-line="91" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
