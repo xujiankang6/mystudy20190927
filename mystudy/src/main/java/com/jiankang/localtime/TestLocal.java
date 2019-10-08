@@ -89,8 +89,6 @@ public class TestLocal {
         LocalDateTime dt = LocalDateTime.parse("27::五月::2014 21::39::48",DateTimeFormatter.ofPattern("d::MMM::uuuu HH::mm::ss"));
         System.out.println("default format after parsing ="+dt);
         */
-        Instant timestamp = Instant.now();
-        System.out.println("Default format of Instant = "+timestamp);
 
         //DateTool
         /*LocalDate today = LocalDate.now();
@@ -107,7 +105,6 @@ public class TestLocal {
         Period period = today.until(lastDayOfYear);
         System.out.println("Period Format = "+period);
         System.out.println("Months remaining in the year="+period.getMonths());*/
-
 
         //Instant
         /*Instant timestamp = Instant.now();
@@ -129,7 +126,6 @@ public class TestLocal {
         LocalDateTime dateFromBase = LocalDateTime.ofEpochSecond(0, 0, ZoneOffset.UTC);
         System.out.println("10000th second time from 01/01/1970= " + dateFromBase);*/
 
-
         //LocalDate
       /*  LocalDate today = LocalDate.now();
         System.out.println("LocalDate.now():"+today);
@@ -142,7 +138,6 @@ public class TestLocal {
         LocalDate hundredDay2014 = LocalDate.ofYearDay(2014,100);
         System.out.println("100th day of 2014="+hundredDay2014);*/
 
-
         //LocalTime
         /*LocalTime time = LocalTime.now();
         System.out.println("LocalTime.now():"+time);
@@ -151,4 +146,5 @@ public class TestLocal {
         ZoneId zoneId=ZoneId.systemDefault();
         System.out.println(zoneId);*/
     }
+
 }
