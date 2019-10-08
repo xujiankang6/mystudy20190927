@@ -25,8 +25,6 @@ public class SerSingletonTest {
         ObjectInputStream ois = new ObjectInputStream(new FileInputStream("a.txt"));
         SerSingleton newInstance = (SerSingleton) ois.readObject();
         Assert.assertEquals(instance,newInstance);
-
-
     }
 
 }
