@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="b0f79b2c-d8a6-4119-8df3-d411f5cffa3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/test/java/singletoninstance/SerSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/test/java/singletoninstance/SerSingletonTest.java" afterDir="false" />
+=======
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/IOrderDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/IOrderService.java" afterDir="false" />
@@ -15,6 +20,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/main/com/jiankang/design/construction/v2/Course$CourseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/com/jiankang/design/construction/v2/Course$CourseBuilder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/main/com/jiankang/design/construction/v2/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/com/jiankang/design/construction/v2/Course.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/main/com/jiankang/design/construction/v2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/com/jiankang/design/construction/v2/Test.class" afterDir="false" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +29,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mystudy20190927" />
+=======
   <component name="FUSProjectUsageTrigger">
     <session id="153488421">
       <usages-collector id="statistics.lifecycle.project">
@@ -53,23 +66,86 @@
         </counts>
       </usages-collector>
     </session>
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/IOrderService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+<<<<<<< HEAD
+            <state relative-caret-position="486">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/SingletonLazyInstance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/StaticSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/SerSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+              </folding>
+=======
+            <state relative-caret-position="76">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/test/java/singletoninstance/SerSingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+=======
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/OrderServiceStaticProxy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
               <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,6 +153,41 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+=======
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -299,6 +410,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -377,11 +489,59 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
             </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -411,6 +571,12 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singletoninstance.Singleton" />
+      <module name="mystudy" />
+=======
   <component name="RunManager" selected="Application.Test (4)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
@@ -422,6 +588,7 @@
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiankang.design.construction.Test" />
       <module name="main" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jiankang.design.construction.*" />
@@ -480,9 +647,15 @@
     </list>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="JUnit.SerSingletonTest.test" />
+        <item itemvalue="Application.Singleton" />
+=======
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (1)" />
       </list>
@@ -497,6 +670,30 @@
       <created>1569982916681</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
+      <updated>1569583330645</updated>
+      <workItem from="1569583333348" duration="14655000" />
+      <workItem from="1570498543981" duration="1506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SerSingletonTest_test - 2019.09.30 at 13h 35m 57s.xml">
+      <configuration name="SerSingletonTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerSingletonTest_test - 2019.09.30 at 13h 36m 58s.xml">
+      <configuration name="SerSingletonTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerSingletonTest_test - 2019.09.30 at 16h 10m 26s.xml">
+      <configuration name="SerSingletonTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerSingletonTest_test - 2019.09.30 at 16h 10m 31s.xml">
+      <configuration name="SerSingletonTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16161000" />
+=======
       <updated>1569982916681</updated>
       <workItem from="1569982922086" duration="6748000" />
       <workItem from="1570065091240" duration="5058000" />
@@ -505,11 +702,37 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="11806000" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
   </component>
   <component name="ToolWindowManager">
     <frame x="-23" y="3" width="1550" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50153375" side_tool="true" weight="0.17217484" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49846625" visible="true" weight="0.17217484" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.27394208" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Spring" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.37082404" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.3997773" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+=======
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
@@ -531,6 +754,7 @@
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
@@ -543,6 +767,8 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -570,6 +796,7 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/main.iml">
       <provider selected="true" editor-type-id="text-editor">
@@ -608,6 +835,26 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/test/java/Test.java" />
+    <entry file="file://$PROJECT_DIR$/mystudy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+=======
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/produce">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -731,11 +978,21 @@
             <element signature="e#262#263#0" expanded="true" />
             <element signature="e#807#808#0" expanded="true" />
           </folding>
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Course.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="378">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+=======
         <state relative-caret-position="83">
           <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           <folding>
@@ -749,10 +1006,30 @@
             <element signature="e#1277#1278#0" expanded="true" />
             <element signature="e#1391#1392#0" expanded="true" />
             <element signature="e#1431#1432#0" expanded="true" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/StaticSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/SerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+=======
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -773,10 +1050,34 @@
             <element signature="e#315#316#0" expanded="true" />
             <element signature="e#363#364#0" expanded="true" />
             <element signature="e#403#404#0" expanded="true" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/mystudy/src/test/java/singletoninstance/SerSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+=======
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/IOrderDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -802,11 +1103,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/Test.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1485">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+=======
         <state relative-caret-position="209">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
@@ -826,6 +1142,7 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> dbea015ff376cc39bc60c96709c8c992000f28be
         </state>
       </provider>
     </entry>
