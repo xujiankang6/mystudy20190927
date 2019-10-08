@@ -19,11 +19,11 @@ public class SerSingletonTest {
 
     @Test
     public  void test() throws IOException, ClassNotFoundException {
-        SerSingleton instance=SerSingleton.getInstance();
+        singletoninstance.SerSingleton instance= singletoninstance.SerSingleton.getInstance();
         ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("a.txt"));
         oos.writeObject(instance);
         ObjectInputStream ois = new ObjectInputStream(new FileInputStream("a.txt"));
-        SerSingleton newInstance = (SerSingleton) ois.readObject();
+        singletoninstance.SerSingleton newInstance = (singletoninstance.SerSingleton) ois.readObject();
         Assert.assertEquals(instance,newInstance);
     }
 

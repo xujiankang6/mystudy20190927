@@ -11,12 +11,12 @@ public class Test {
 
         long singletonbegintime = System.currentTimeMillis();
         for (int i = 0; i <1000000 ; i++) {
-            Singleton.getInstance();
+            singletoninstance.Singleton.getInstance();
         }
         System.out.println("spend:"+(System.currentTimeMillis()-singletonbegintime));
         long singletonlazybegintime = System.currentTimeMillis();
         for (int i = 0; i <1000000 ; i++) {
-            SingletonLazyInstance.getInstance();
+            singletoninstance.SingletonLazyInstance.getInstance();
         }
         System.out.println("lazyspend:"+(System.currentTimeMillis()-singletonlazybegintime));
 
