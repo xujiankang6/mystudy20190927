@@ -31,7 +31,7 @@ public class Test {
 
 
 
-      /*  Logger logger= LoggerFactory.getLogger(Test.class);
+      /*  Logger logger= LoggerFactory.getLogger(TestLocal.class);
        double number= Math.random();
        int intnumber= new Random().nextInt(1000000);
         System.out.println(intnumber);
