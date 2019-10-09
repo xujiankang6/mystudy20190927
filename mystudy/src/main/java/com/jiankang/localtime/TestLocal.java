@@ -8,16 +8,11 @@ package com.jiankang.localtime;
 import java.text.SimpleDateFormat;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
-import java.time.temporal.TemporalAdjusters;
-import java.time.temporal.TemporalField;
-import java.time.temporal.WeekFields;
 import java.util.Date;
-import java.util.Locale;
-import java.util.TooManyListenersException;
 
 public class TestLocal {
 
-    public static  Long convertTimeToLong(LocalDateTime time) {
+    public static Long convertTimeToLong(Date time) {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String dateString = formatter.format(time);
         DateTimeFormatter ftf = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
@@ -26,6 +21,15 @@ public class TestLocal {
     }
 
     public static void main(String[] args) {
+
+
+//拿到中国的本周一
+        ZoneId zone = ZoneId.of("UTC+8");
+        LocalDateTime defaultTime = LocalDateTime.of(LocalDate.now(), LocalTime.of(0, 0, 0, 0));
+        Instant instant = defaultTime.toInstant(ZoneOffset.of("+8"));
+        LocalDateTime dateTime = LocalDateTime.ofInstant(instant, zone);
+        LocalDateTime monday = dateTime.with(DayOfWeek.SUNDAY);
+        long mondayTimestamp = monday.atZone(zone).toInstant().toEpochMilli();
 
 
         //获取当前日期所在月的第一个周一
@@ -40,8 +44,6 @@ public class TestLocal {
         LocalDateTime currentSundayTime = LocalDateTime.parse(currentSunday.toString()+ " 23:59:59",df);
         Long currentMoneyTimestamp = currentMoneyTime.atZone(ZoneId.systemDefault()).toInstant().toEpochMilli();
         Long currentSundayTimestamp = currentSundayTime.atZone(ZoneId.systemDefault()).toInstant().toEpochMilli();*/
-
-
 
 
         //获取当天的起始时间戳
@@ -70,10 +72,6 @@ public class TestLocal {
         System.out.println(localDate1.get(weekFields.weekOfWeekBasedYear()));*/
 
 
-
-
-
-
         //格式化
        /* LocalDate date = LocalDate.now();
         System.out.println("Default format of LocalDate="+date);
@@ -89,8 +87,10 @@ public class TestLocal {
         LocalDateTime dt = LocalDateTime.parse("27::五月::2014 21::39::48",DateTimeFormatter.ofPattern("d::MMM::uuuu HH::mm::ss"));
         System.out.println("default format after parsing ="+dt);
         */
-        Instant timestamp = Instant.now();
-        System.out.println("Default format of Instant = "+timestamp);
+
+        //系统时间
+        /*Instant timestamp = Instant.now();
+        System.out.println("Default format of Instant = "+timestamp);*/
 
         //DateTool
         /*LocalDate today = LocalDate.now();
