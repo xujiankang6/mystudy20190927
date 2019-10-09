@@ -30,6 +30,7 @@ public class TestLocal {
         LocalDateTime dateTime = LocalDateTime.ofInstant(instant, zone);
         LocalDateTime monday = dateTime.with(DayOfWeek.SUNDAY);
         long mondayTimestamp = monday.atZone(zone).toInstant().toEpochMilli();
+        System.out.println(mondayTimestamp);
 
 
         //获取当前日期所在月的第一个周一
