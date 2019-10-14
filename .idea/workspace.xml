@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/dynamicproxy/OrderServiceDynamicProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/dynamicproxy/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/production/main/main.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
@@ -62,10 +56,10 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/publicwecat/ListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
+            <state relative-caret-position="70">
               <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -161,7 +155,6 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Course.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseBuilder.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Coach.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/v2/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/v2/Course.java" />
@@ -192,6 +185,7 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/publicwecat/ListTest.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Singleton.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java" />
       </list>
     </option>
   </component>
@@ -659,7 +653,7 @@
       <workItem from="1570065091240" duration="21536000" />
       <workItem from="1570611140299" duration="5734000" />
       <workItem from="1570671613695" duration="7964000" />
-      <workItem from="1570700998073" duration="7792000" />
+      <workItem from="1570700998073" duration="10211000" />
     </task>
     <servers />
   </component>
@@ -675,21 +669,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49774000" />
+    <option name="totallyTimeSpent" value="52193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.6560102" visible="true" weight="0.17110874" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.6560102" visible="true" weight="0.17110874" />
       <window_info id="Structure" order="6" sideWeight="0.34398976" side_tool="true" weight="0.1391258" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.44209355" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.44209355" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -1146,23 +1139,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/main.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/publicwecat/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
+        <state relative-caret-position="70">
           <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
