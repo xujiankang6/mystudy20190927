@@ -1,0 +1,175 @@
+ffc90c1855dcc5c024c2ce6ee860f60b17fba863 (HEAD -> mybus, origin/stage, stage) fix data_status<E7><8A><B6><E6><80><81><E3><80><82>
+d31c4fecfe0d3442fb30974218bba6afb874edbf  mapping<E4><BC><98><E5><8C><96>
+5f963d5a98d8130c6baba46284231603ea0f2c2e wangbang_employee mapping<E4><BC><98><E5><8C><96>
+156d7ab4e48d80576a87758b84970611beb25732 <E4><BC><98><E5><8C><96><E6><96><87><E4><BB><B6><E6><9F><A5><E8><AF><A2>
+1c0037a84c98f99201815f9f6097588a75ba139c fix convert groovy to java . String == to equals
+f86569aef62cb378fea4babfcd96f35b454f183d fix FileMappingJob <E6><96><B9><E6><B3><95><E6><9D><83><E9><99><90>
+53d5f02dc43289cd6d7d0de937ccfeb8bec72889 <E4><BF><AE><E6><94><B9>monitor<E7><8A><B6><E6><80><81>
+4eb93a1dd2ff61fa848a45080b383569aa65589b <E9><87><8D><E6><9E><84>mapping
+8e4c75c440d9f25f6975ad309ee0eb665ef2f5b4 mapping <E9><87><8D><E6><9E><84>
+1c0037a84c98f99201815f9f6097588a75ba139c fix convert groovy to java . String == to equals
+f86569aef62cb378fea4babfcd96f35b454f183d fix FileMappingJob <E6><96><B9><E6><B3><95><E6><9D><83><E9><99><90>
+53d5f02dc43289cd6d7d0de937ccfeb8bec72889 <E4><BF><AE><E6><94><B9>monitor<E7><8A><B6><E6><80><81>
+4eb93a1dd2ff61fa848a45080b383569aa65589b <E9><87><8D><E6><9E><84>mapping
+8e4c75c440d9f25f6975ad309ee0eb665ef2f5b4 mapping <E9><87><8D><E6><9E><84>
+1c5e95f4ed12f1d8f08476e957e197d51e3739ae refactor groovy <E9><87><8D><E6><9E><84><E4><B8><BA>java
+62610f773d9c7888414f34ab50f75b9dc4b8a559 refactor <E9><87><8D><E6><9E><84><E9><A1><B9><E7>AE><E7><BB><93><E6><9E><84>
+56362b1a4c2a4e1de6e31947525196c29a967e31 fix <E5><B0><9D><E8><AF><95><E8><A7><A3><E5><86><B3>jenkins<E7><BC><96><E8><AF><91><E9><97><AE><E9><A2><98>
+1c9c5f9375f5d26e4d8632134505a1fc758c781b Merge branch 'stage' into 'stage'
+c8c33b5ace584afb54fd58fae32663e42c175a3a refactor <E9><87><8D><E6><9E><84>mapping<E9><80><BB><E8><BE><91>
+53d7424b0bb9e74b8fb22ab02faaac10cb6e234e refactor 2019.09.08 ing
+708a63ccd423d9edc3e2bc3aefd4dfdf8cb284b7 hr&<E9><83><A8><E9><97><A8><E6><95><B0><E6><8D><AE><E8><B0><83><E8><AF><95><E9><80><9A><E8><BF><87>
+fa1a5577eeb0f784785180adfad5286487eb8083 feature <E6><B7><BB><E5><8A><A0>mapping<E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95><E4><B8><AD>ing.
+d43ab3b757133c43f16ccf79a130e72f0bc5ee3c feature <E5><AE><8C><E5><96><84>mapping <E6><9C><BA><E5><88><B6>
+242b8f700c4846ab5acc15627f6162f095854fee fix SFTPUtil <E8><AE><B0><E5><BD><95><E5><88>E5><BB><BA><E7>AE><E5><BD><95><E8><AF><A6><E7><BB><86><E6><97><A5><E5><BF><97>
+f9f5c8ebed32bb9720d1d05026c69e6292fad88a fix <E6><B7><BB><E5><8A><A0>virtual-host <E5><B1><9E><E6><80><A7>
+fa3dfe0af88d8ffa89552cdce4630837e8464e91 Merge branch 'stage' into 'stage'
+6250a9caec633306414a761a18887d6cd19b3b92 refactor <E9><87><8D><E6><9E><84><E4><BB><A3><E7><A0><81>
+4adb5639e0be095ba83c8b8d591230132a2662db Merge branch 'stage' into 'stage'
+ebfbe19a1ad13b780159c834c0cc1d0f3f45d218 fix <E4><B8><8B><E8><BD><BD><E6><95><B0><E6><8D><AE> <E6><95><B0><E6><8D><AE><E6><80><BB><E6><9D><A1><E6><95><B0>bug
+ddf49d8978ff301cf856935418c2abf561ccb45f feature mapping<E4><BB><BB><E5><8A><A1><E6><94><BE><E5><85><A5><E7><BA><BF><E7><A8><8B><E6><B1><A0>
+99c435e4d963bb589c1a103441ca5c31a73ad904 Merge branch 'stage' into 'stage'
+:
+1c0037a84c98f99201815f9f6097588a75ba139c fix convert groovy to java . String == to equals
+f86569aef62cb378fea4babfcd96f35b454f183d fix FileMappingJob <E6><96><B9><E6><B3><95><E6><9D><83><E9><99><90>
+53d5f02dc43289cd6d7d0de937ccfeb8bec72889 <E4><BF><AE><E6><94><B9>monitor<E7><8A><B6><E6><80><81>
+4eb93a1dd2ff61fa848a45080b383569aa65589b <E9><87><8D><E6><9E><84>mapping
+8e4c75c440d9f25f6975ad309ee0eb665ef2f5b4 mapping <E9><87><8D><E6><9E><84>
+1c5e95f4ed12f1d8f08476e957e197d51e3739ae refactor groovy <E9><87><8D><E6><9E><84><E4><B8><BA>java
+62610f773d9c7888414f34ab50f75b9dc4b8a559 refactor <E9><87><8D><E6><9E><84><E9><A1><B9><E7>AE><E7><BB><93><E6><9E><84>
+56362b1a4c2a4e1de6e31947525196c29a967e31 fix <E5><B0><9D><E8><AF><95><E8><A7><A3><E5><86><B3>jenkins<E7><BC><96><E8><AF><91><E9><97><AE><E9><A2><98>
+1c9c5f9375f5d26e4d8632134505a1fc758c781b Merge branch 'stage' into 'stage'
+c8c33b5ace584afb54fd58fae32663e42c175a3a refactor <E9><87><8D><E6><9E><84>mapping<E9><80><BB><E8><BE><91>
+53d7424b0bb9e74b8fb22ab02faaac10cb6e234e refactor 2019.09.08 ing
+708a63ccd423d9edc3e2bc3aefd4dfdf8cb284b7 hr&<E9><83><A8><E9><97><A8><E6><95><B0><E6><8D><AE><E8><B0><83><E8><AF><95><E9><80><9A><E8><BF><87>
+fa1a5577eeb0f784785180adfad5286487eb8083 feature <E6><B7><BB><E5><8A><A0>mapping<E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95><E4><B8><AD>ing.
+d43ab3b757133c43f16ccf79a130e72f0bc5ee3c feature <E5><AE><8C><E5><96><84>mapping <E6><9C><BA><E5><88><B6>
+242b8f700c4846ab5acc15627f6162f095854fee fix SFTPUtil <E8><AE><B0><E5><BD><95><E5><88>E5><BB><BA><E7>AE><E5><BD><95><E8><AF><A6><E7><BB><86><E6><97><A5><E5><BF><97>
+f9f5c8ebed32bb9720d1d05026c69e6292fad88a fix <E6><B7><BB><E5><8A><A0>virtual-host <E5><B1><9E><E6><80><A7>
+fa3dfe0af88d8ffa89552cdce4630837e8464e91 Merge branch 'stage' into 'stage'
+6250a9caec633306414a761a18887d6cd19b3b92 refactor <E9><87><8D><E6><9E><84><E4><BB><A3><E7><A0><81>
+4adb5639e0be095ba83c8b8d591230132a2662db Merge branch 'stage' into 'stage'
+ebfbe19a1ad13b780159c834c0cc1d0f3f45d218 fix <E4><B8><8B><E8><BD><BD><E6><95><B0><E6><8D><AE> <E6><95><B0><E6><8D><AE><E6><80><BB><E6><9D><A1><E6><95><B0>bug
+ddf49d8978ff301cf856935418c2abf561ccb45f feature mapping<E4><BB><BB><E5><8A><A1><E6><94><BE><E5><85><A5><E7><BA><BF><E7><A8><8B><E6><B1><A0>
+99c435e4d963bb589c1a103441ca5c31a73ad904 Merge branch 'stage' into 'stage'
+22602988483362fcd078504066b15efc6c1469a5 fix mapping<E6><B7><BB><E5><8A><A0><E6><97><A5><E5><BF><97> <E5><B9><BF><E6><92><AD><E6><A0><B9><E6><8D><AE>taskId<E6><9F><A5><E6><89><BE><E6><9C><AC><E6><AC><A1>
+<E5><8F><98><E6>B4><E5><8F><98><E5><8C><96><E7><9A><84><E6><95><B0><E6><8D><AE>
+:
+1c0037a84c98f99201815f9f6097588a75ba139c fix convert groovy to java . String == to equals
+f86569aef62cb378fea4babfcd96f35b454f183d fix FileMappingJob <E6><96><B9><E6><B3><95><E6><9D><83><E9><99><90>
+53d5f02dc43289cd6d7d0de937ccfeb8bec72889 <E4><BF><AE><E6><94><B9>monitor<E7><8A><B6><E6><80><81>
+4eb93a1dd2ff61fa848a45080b383569aa65589b <E9><87><8D><E6><9E><84>mapping
+8e4c75c440d9f25f6975ad309ee0eb665ef2f5b4 mapping <E9><87><8D><E6><9E><84>
+1c5e95f4ed12f1d8f08476e957e197d51e3739ae refactor groovy <E9><87><8D><E6><9E><84><E4><B8><BA>java
+62610f773d9c7888414f34ab50f75b9dc4b8a559 refactor <E9><87><8D><E6><9E><84><E9><A1><B9><E7>AE><E7><BB><93><E6><9E><84>
+56362b1a4c2a4e1de6e31947525196c29a967e31 fix <E5><B0><9D><E8><AF><95><E8><A7><A3><E5><86><B3>jenkins<E7><BC><96><E8><AF><91><E9><97><AE><E9><A2><98>
+1c9c5f9375f5d26e4d8632134505a1fc758c781b Merge branch 'stage' into 'stage'
+c8c33b5ace584afb54fd58fae32663e42c175a3a refactor <E9><87><8D><E6><9E><84>mapping<E9><80><BB><E8><BE><91>
+53d7424b0bb9e74b8fb22ab02faaac10cb6e234e refactor 2019.09.08 ing
+708a63ccd423d9edc3e2bc3aefd4dfdf8cb284b7 hr&<E9><83><A8><E9><97><A8><E6><95><B0><E6><8D><AE><E8><B0><83><E8><AF><95><E9><80><9A><E8><BF><87>
+fa1a5577eeb0f784785180adfad5286487eb8083 feature <E6><B7><BB><E5><8A><A0>mapping<E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95><E4><B8><AD>ing.
+d43ab3b757133c43f16ccf79a130e72f0bc5ee3c feature <E5><AE><8C><E5><96><84>mapping <E6><9C><BA><E5><88><B6>
+242b8f700c4846ab5acc15627f6162f095854fee fix SFTPUtil <E8><AE><B0><E5><BD><95><E5><88>E5><BB><BA><E7>AE><E5><BD><95><E8><AF><A6><E7><BB><86><E6><97><A5><E5><BF><97>
+f9f5c8ebed32bb9720d1d05026c69e6292fad88a fix <E6><B7><BB><E5><8A><A0>virtual-host <E5><B1><9E><E6><80><A7>
+fa3dfe0af88d8ffa89552cdce4630837e8464e91 Merge branch 'stage' into 'stage'
+6250a9caec633306414a761a18887d6cd19b3b92 refactor <E9><87><8D><E6><9E><84><E4><BB><A3><E7><A0><81>
+4adb5639e0be095ba83c8b8d591230132a2662db Merge branch 'stage' into 'stage'
+ebfbe19a1ad13b780159c834c0cc1d0f3f45d218 fix <E4><B8><8B><E8><BD><BD><E6><95><B0><E6><8D><AE> <E6><95><B0><E6><8D><AE><E6><80><BB><E6><9D><A1><E6><95><B0>bug
+ddf49d8978ff301cf856935418c2abf561ccb45f feature mapping<E4><BB><BB><E5><8A><A1><E6><94><BE><E5><85><A5><E7><BA><BF><E7><A8><8B><E6><B1><A0>
+99c435e4d963bb589c1a103441ca5c31a73ad904 Merge branch 'stage' into 'stage'
+22602988483362fcd078504066b15efc6c1469a5 fix mapping<E6><B7><BB><E5><8A><A0><E6><97><A5><E5><BF><97> <E5><B9><BF><E6><92><AD><E6><A0><B9><E6><8D><AE>taskId<E6><9F><A5><E6><89><BE><E6><9C><AC><E6><AC><A1>
+<E5><8F><98><E6>B4><E5><8F><98><E5><8C><96><E7><9A><84><E6><95><B0><E6><8D><AE>
+bc8256087370315a9c353c8f5d9746c957f4d80d feature <E4><BF><AE><E5><A4><8D><E5><88><86><E9><A1><B5><E6><9F><A5><E8><AF><A2>bug
+b329df37c1f1f3d7eb422d95439294268ec18e39 Merge branch 'stage' into 'stage'
+91ef2255de35561e6946d9da3747b4d4b91140ca fix mapping<E5><92><8C><E7><94><9F><E6><88><90><E6><9F><A5><E8><AF><A2><E5><AF><B9><E8><B1><A1>bug
+0cc1f6ed79cd913b94f38dc120ce7a8f03f1fb6a Merge branch 'stage' into 'stage'
+4480a3fb7eac00d780a1e8e493d1e504400197a9 feature <E9><87><8D><E6><9E><84>usercontext<E6><B3><A8><E5><85><A5><E9><80><BB><E8><BE><91>
+bd2a33613162807ada7060321c24070933cd0cd8 Merge branch 'cherry-pick-7cb491ae' into 'stage'
+dc8319e230e5f0f50d5454bdddcf4211d9c689e8 fix <E5><8E><BB><E6><8E><89>RedisLockUtil<E4><BE><9D><E8><B5><96>
+bfef432e1ded5a653177e5cf3e7fce5f883f8841 feature <E9><87><8D><E6><9E><84><E7><94><9F><E6><88><90><E6><96><87><E4><BB><B6><E5><8A><9F><E8><83><BD>ing
+b3aa4a33e7011ec81bfa17b97778ee627db5e16f Merge branch 'busFunction' into 'stage'
+02bc7bc314d632a82fe1fe7ddc12137201454a3f (origin/busFunction) <E4><BC><98><E5><8C><96><E7><BA><BF><E7><A8><8B><E6><B1><A0><E5><8F><8A><E6><9F><A5><E8><AF><A2><E5><8F><82><E6><95><B0>
+a40beb5bbabbe5c35360c2d3b86773fa2c40b845 Merge branch 'stage' into 'stage'
+47479435b1e260aea4a70e74f3f4dd610c427881 feature <E8><B0><83><E6><95><B4><E9><94><81><E6><97><B6><E9><97><B4><E5><8D><95><E4><BD><8D>
+48ca6a0e9a3d8fdd45d51f0e937d49537349c2fd Merge branch 'stage' of ssh://gitlab.forceclouds.com:54321/crm/fc-crm-bus into stage
+53959734d675031642373bc403e6dd5c7360cc79 *.log <E5><8A><A0><E5><85><A5>gitignore
+18c3eefdbff5699d571e0a12b53be6b851ab02d6 feature <E5><85><BC><E5><AE><B9><E9><98><BF><E9><87><8C><E4><BA><91>MQ
+130138d06840c3409b59120b0cfab659e6dd8b29 feature <E5><85><BC><E5><AE><B9><E9><98><BF><E9><87><8C><E4><BA><91>MQ
+3a91269c11cd065dd0404441a5d997b6c93ea4ef Merge branch 'busFunction' into 'stage'
+6b50d6fdcb0c0b4d755ce125ecb05f96b2dda2f5 <E2><80><98><E6><9F><A5><E8><AF><A2><E8><B7><AF><E5><BE><84><E5><8F><8A><E4><B8><8A><E4><BC><A0><E7>AE><E5><BD><95><E4><BC><98><E5><8C><96>
+0acc345a8ca74572335bd04fd08e6c83504227d1 Merge branch 'stage' into 'stage'
+05d800acb82168a89503d0d57339b73627fd20aa feature <E8><B0><83><E6><95><B4><E4><BB><BB><E5><8A><A1><E6><89><A7><E8><A1><8C><E7><AD><89><E5><BE><85><E6><97><B6><E9><97><B4>
+c11cc57b2d597bb8aa8c45abd4a169f161b63cc3 Merge branch 'stage' of ssh://gitlab.forceclouds.com:54321/crm/fc-crm-bus into stage
+e16f32fd8653fc1e44a445faa82afeefcacf2e8b feature <E9><87><8D><E6><9E><84><E9><83><A8><E5><88><86><E4><BB><A3><E7><A0><81>
+9b69a97483104f09fdfcbe8cfc79a36380addc9f Merge branch 'JQ.bi' into 'stage'
+e850b0537e3de244653ffc44e1e9aa80768a1340 Merge branch 'stage' into 'JQ.bi'
+e92e1b0cd9c90c9af248bcfe34b4be78be843f60 Merge branch 'stage' into 'stage'
+574b99dae3d5c90990c2f1baecd13b34f36d2873 feature <E4><BB><8E>bus_table<E5><8A><A0><E8><BD><BD><E5><AF><B9><E5><BA><94><E7><9A><84>mapping
+a5f0a926c75d15483c73ce0354f330a91099a6b1 Merge branch 'busFunction' into 'stage'
+27d9d625b4d997ef8f438d1b0b9c7fac58eaef83 <E6><8F><90><E4><BE>E5><A4><96><E9><83><A8><E8><8E><B7><E5><8F><96><E6><95><B0><E6><8D><AE><E6><8E><A5><E5><8F><A3>
+b37e633020d334c2888a73b054bd6183f702e287 JQ.bi Release on 6.11
+2dfde6d029ec4208db640d306ea91c2886a5264a Merge branch 'stage' into 'stage'
+62b77eae4f9361a02682df06b7fc324f77b7ed6e feature mapping<E8><84><9A><E6><9C><AC><E7><94><B1><E6><95><B0><E6><8D><AE><E5><BA><93><E5><8A><A0><E8><BD><BD>
+712b3b73e3f81aefb9e3a4e532f6961003566a62 Merge branch 'stage' into 'stage'
+a3fc91d02ca90098a3439d767de79b4ad3198de3 feature <E5><AE><9A><E6><97><B6><E6><89><A7><E8><A1><8C><E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95>ing
+c53f0e98f00c5452251eee5a1a4957bd4e8d2ec0 Merge branch 'stage' into 'stage'
+53b5eb19327dc22c04e2911eb9b917e924f981e6 feature <E9><87><8D><E6><9E><84>mapping<E5><9F><BA><E7><B1><BB>ing
+52c3d0f889f241914085ade74696174ed21d8336 stg Release on 6.10 of add mapping
+dc412b5a55a4c8947064c049573cc8fb96cc0ed8 Merge branch 'stage' into 'stage'
+7c17d2db3872e4fd143d09363eb9468c7e648553 feature <E6><B7><BB><E5><8A><A0>mapping<E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95><E4><B8><AD>ing.
+5aa2817d4d97e668c83e95b01648828c361a8f82 feature <E5><90><AF><E5><8A><A8><E5><AE><9A><E6><97><B6><E6><89><AB><E6><8F><8F><E4><BB><BB><E5><8A><A1><E5><8A><9F><E8><83><BD>ing
+bd512c31fb4f1e1ebe6f66cd2c3995af5e4a2eef Merge branch 'stage' into 'stage'
+264281af81ba53f8d652ed7a32a0f2dc6d7faab9 feature <E5><BE><AE><E9><87><8F><E6>B4><E6><96><B0><E6><9A><82><E6><97><B6><E9><87><87><E7><94><A8><E8><A1><A8><E6><A8><A1><E5><BC><8F>
+86737273e6984ec601540e4a0dc19af011939542 Merge branch 'stage' into 'stage'
+dc45c7188953523a6e490f610db696d4bc817a50 feature <E5><9F><BA><E6><9C><AC><E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95>ing
+07d74324a169c2476183c49673f3be1f78368d36 feature mq<E6><B7><BB><E5><8A><A0><E6><97><A5><E5><BF><97>
+224baa179b3eff1390212b3b1856ce795496a66a Merge branch 'busFunction' into 'stage'
+14578ead019d44a240f88441e7872ddba18836a5 <E4><B8><8A><E4><BC><A0><E6><96><87><E4><BB><B6><E6>B4><E6><94><B9><E4><B8><BA>sftp
+0ec3c6d974c15d09a28744b687790b87851ddc1a Merge branch 'stage' into 'stage'
+b9cde5d158fb73c1e2e760d539c32da3d65dd24d feature <E5><88><87><E6><8D><A2><E4><B8><87><E9><82><A6>dev<E6><9C><8D><E5><8A><A1><E5><99><A8><E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95>ing
+382f6c7951234347e4b9a39ba8c679ef405eac16 Merge branch 'stage' into 'stage'
+f5371f62b0850fb01b49d5a46dacacce6c2ace30 feature <E5><9F><BA><E6><9C><AC><E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95>ing
+a5992718c59994431322cf100e75baa338342ecb Merge branch 'stage' into 'stage'
+8f30aa8b48cfbb028a7a9dc6dd9f6466159a69af feature <E6><9A><82><E6><97><B6><E6><B7><BB><E5><8A><A0><E6><B5><8B><E8><AF><95><E7><B1><BB><E4><BB><A5><E4><BE><BF><E7><BC><96><E8><AF><91><E9><80><9A><E8><BF><87>
+8f70f2c8d6e8ab51ece689ee103d8c38b54205a0 Merge branch 'stage' into 'stage'
+0b57669cbf3eb798ba1e5ac45afe837a7297c5f5 feature <E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95>ing
+ce841898d6a84444265acdfb8976513d217ee7af (origin/dev, origin/HEAD, dev) Merge branch 'busFunction' into 'dev'
+2426259526da4492ec116369248265e03770d1a0 Update application.yml
+574484c83514bc9fcc7819b5482369453f9a21a9 <E4><B8><8A><E4><BC><A0>ftp
+fa84c82e6e151607a3483341d880000599c9db87 Merge branch 'dev' into 'dev'
+89b5468bd8a0562773d11b352d220966dcfc1014 featue <E5><9F><BA><E6><9C><AC><E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95>ing
+b5c54a44d2e21890c6c0be9b190bbc1c1972958d feature <E5><9F><BA><E6><9C><AC><E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95>ing
+e0c9a65322c681c7373e7a3a85ad009185602e97 Merge branch 'dev' into 'dev'
+6aeeb528176a597bbcb7286b8a3755f6843d9c6c feature <E5><9F><BA><E6><9C><AC><E5><8A><9F><E8><83><BD><E6><B5><8B><E8><AF><95>ing
+4e40c69555d172a8e60ca8b549121b77c6ef8dee Merge branch 'dev' of ssh://gitlab.forceclouds.com:54321/crm/fc-crm-bus into busFunction
+cf358cda5a40ba60afb9c3f706fef99b2f925beb Merge branch 'dev' into 'dev'
+4efcbbb7eeddafe00ad374ef6b7aac34430e53c4 Merge branch 'dev' of ssh://gitlab.forceclouds.com:54321/crm/fc-crm-bus into dev
+8bc3181b6d1120e1a99a528718b256939853b012 feature <E6><B7><BB><E5><8A><A0>sftphome
+a98e6cadaa3c48c1abc66e25a9f0bb1274eda980 Merge branch 'dev' of ssh://gitlab.forceclouds.com:54321/crm/fc-crm-bus into busFunction
+8b47e5231c4440058b88d822884438438211ad78 Merge branch 'dev' into 'dev'
+e40399598856c09c683f4efd12572ee31aa00f36 feature <E6><B5><8B><E8><AF><95><E5><AE><9A><E7><89><88><E6><B5><81><E7><A8><8B>ing
+0e563d70fec1a06bbfb0bb362266367a3f2ff8f9 feature <E5><9F><BA><E6><9C><AC><E5><8F><AF><E4><BB><A5><E6><AD><A3><E5><B8><B8><E7><94><9F><E6><88><90><E4><BB><BB><E5><8A><A1>
+29d0c7e603f1b3c4430e42a034685d1490647292 <E4><BC><98><E5><8C><96><E4><B8><8A><E4><BC><A0><E6><96><87><E4><BB><B6>
+dff87d0f3acb4db1d2117dcdf10ce32c6dfafcb7 fix <E6><A0><B9><E6><8D><AE><E6><96><B0><E8><A1><A8><E7><BB><93><E6><9E><84><E8><B0><83><E6><95><B4><E5><8A><9F><E8><83><BD>ing
+cecd90512e58d4780f224e44cbead6a7cb56d10b Merge branch 'dev' into 'dev'
+5ed1de397c1c395ccfe4f348140a75be5aa4fc31 fix <E6><A0><B9><E6><8D><AE><E6><96><B0><E8><A1><A8><E7><BB><93><E6><9E><84><E8><B0><83><E6><95><B4><E5><8A><9F><E8><83><BD>ing
+dc9a550a26655110431997818ffedccbd3603bae <E6><96><87><E4><BB><B6><E4><B8><8A><E4><BC><A0>
+e497e64911f80d87cf721dfc1d761e311a1797a6 Merge branch 'dev' into 'dev'
+fd91f1e003a4f392c48c474dfe70239ad9424db9 fix <E5><9F><BA><E4><BA><8E><E6><96><B0><E8><A1><A8><E7><BB><93><E6><9E><84><E5><BC><80><E5><8F><91>ing
+fbcf7f50e29d1e02995b9e69e46d41a00c3a801c dev <E5><BC><80><E5><8F><91><E4><BA><8B><E4><BB><B6>
+7652385dc0924f9e4ad553dae8a076d783f92f6e feature <E5><BC><95><E5><85><A5>SpringEvent<E4><BA><8B><E4><BB><B6>ing
+d7fd88587dbb77eb649a4d65069c658a1f104477 before <E5><BC><80><E5><8F><91><E4><BA><8B><E4><BB><B6><E5><AF><B9><E5><BA><94><E5><A4><9A><E8><A1><A8><E5><8A><9F><E8><83><BD>
+001c8bd9afb4fc6a76b7cd629ef81161e93e6c34 Merge branch 'dev' into 'dev'
+0bcb23df25221a4dec57a2474b43afdee4e04bb0 feature v0.1<E6><95><B0><E6><8D><AE><E5><BA><93><E8><84><9A><E6><9C><AC>
+c950f37d9c93b4756e5075653020b25ae7b97aaf Merge branch 'dev' into 'dev'
+3a43ae41335bb9d111e73dce55bb7c72030110f5 feature <E5><AE><9A><E7><89><88><E5><8A><9F><E8><83><BD>
+6aba548b0e9e760f5bb94addf18143d193f9f561 <E7><94><9F><E6><88><90><E5><AE><9A><E7><89><88><E4><BB><BB><E5><8A><A1><E3><80><82>
+e0eabe6186b6fbd3b770a5ddd27659e6bd3091c6 Merge branch 'dev' into 'dev'
+c36b536937a70799509fcd3f49e4f611b0af8f1c WIP:<E9><87><8D><E6><9E><84><E4><BB><BB><E5><8A><A1><E7><94><9F><E6><88><90><E9><80><BB><E8><BE><91>
+8204ae22ce19d8097cf968b54ae751d0829e5dff WIP <E5><87><86><E5><A4><87><E6><B7><BB><E5><8A><A0><E9><83><A8><E5><88><86><E5><8F><98><E6>B4><E6><8E><A7><E5><88><B6><E5><8A><9F><E8><83><BD>
+5a679e470a1e26968c63b9d7f0a01b18f241ed27 WIP:<E9>86><E6><88><90>rabbitmq
+4009a163802f69943b753f6553109bd3e16b4a6a WIP:<E5><AE><9A><E7><89><88><E7><AE><A1><E7><90><86><E6><A8><A1><E5><9D><97><E5><BC><80><E5><8F><91>
+391ed9242a15c2c0f82728b229c876cc149cec1b WIP:<E5><A4><8D><E5><88><B6>TM redcord<E6><9F><A5><E8><AF><A2><E5><8A><9F><E8><83><BD>
+d91b916ff707c7e0f1837c9abcb9c7edc3912193 feature bus<E9><A1><B9><E7>AE><E5><88>E5><BB><BA>
+2e71a210cde665498c89a08a5227191996b48d64 feature <E5><88>E5><BB><BA>bus<E7><A8><8B><E5><BA><8F>
+274e07f1648a7604e8ee6497c0edcce2ccec40f5 feature <E5><88><9D><E5><A7><8B><E5><8C><96>bus<E9><A1><B9><E7>AE>
