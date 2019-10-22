@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/collections/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/thinkinginjava/Utilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/collections/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="245">
-              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+              <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -755,7 +749,7 @@
       <workItem from="1571147996033" duration="988000" />
       <workItem from="1571227105605" duration="21043000" />
       <workItem from="1571618709665" duration="2033000" />
-      <workItem from="1571647338593" duration="18390000" />
+      <workItem from="1571647338593" duration="19052000" />
     </task>
     <servers />
   </component>
@@ -771,7 +765,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101232000" />
+    <option name="totallyTimeSpent" value="101894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
@@ -785,12 +779,12 @@
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.14652406" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.09893048" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.33296213" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.33295193" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.23226544" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.23226544" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39914772" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32628062" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -1360,7 +1354,7 @@
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/collections/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
-          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
