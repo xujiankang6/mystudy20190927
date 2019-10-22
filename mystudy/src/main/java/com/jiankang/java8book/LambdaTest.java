@@ -9,10 +9,10 @@ package com.jiankang.java8book;
 import com.jiankang.java8book.bean.Trader;
 import com.jiankang.java8book.bean.Transaction;
 
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+import java.util.function.IntSupplier;
+import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class LambdaTest {
     public static void main(String[] args) {
@@ -30,6 +30,96 @@ public class LambdaTest {
                 new Transaction(mario, 2012, 700),
                 new Transaction(alan, 2012, 950)
         );
+
+        /*
+        代码清单6-1 用指令式风格对交易按照货币分组
+         */
+     /*   Map<Trader,List<Transaction>> transactionsByCurrencies = new HashMap<>();
+        for(Transaction transaction:transactions){
+            Trader currency = transaction.getTrader();
+            List<Transaction> transactionList = transactionsByCurrencies.get(currency);
+            if(transactionList ==null){
+                transactionList=new ArrayList<>();
+                transactionsByCurrencies.put(currency,transactionList);
+            }
+            transactionList.add(transaction);
+        }
+
+
+        Map<Trader,List<Transaction>> currencyListMap=  transactions.stream().collect(Collectors.groupingBy(Transaction::getTrader));
+
+*/
+     /*
+     6.1.1 收集器用作高级归约
+      */
+//        List<Transaction> transactionList = transactions.stream().collect(Collectors.toList());
+
+
+
+
+
+        /*
+        5.7.4  无限流
+         */
+//        Stream.iterate(0,n->n+2).limit(10).forEach(System.out::println);
+//        Stream.iterate(new int[]{0,1},n->new int[]{n[1],n[0]+n[1]}).limit(20).map(t->t[0]).forEach(System.out::println);
+//        Stream.generate(Math::random).limit(5).forEach(System.out::println);
+//        IntStream ones = IntStream.generate(() -> 1);
+/*        IntStream twos = IntStream.generate(new IntSupplier() {
+            @Override
+            public int getAsInt() {
+                return 2;
+            }
+        });
+        IntSupplier fib = new IntSupplier() {
+            private int previous = 0;
+            private int current = 1;
+
+            @Override
+            public int getAsInt() {
+                int oldPrevious = this.previous;
+                int nextValue = this.previous + this.current;
+                this.previous = this.current;
+                this.current = nextValue;
+                return oldPrevious;
+            }
+        };
+        IntStream.generate(fib).limit(10).forEach(System.out::println);*/
+
+
+
+        /*
+        5.7.3 由文件生成流
+         */
+  /*      long uniqueWords =0;
+        try(Stream<String> lines = Files.lines(Paths.get("D:\\mystudy20190927\\mystudy\\src\\main\\java\\com\\jiankang\\java8book\\data.txt"), Charset.defaultCharset())){
+            uniqueWords=lines.flatMap(line -> Arrays.stream(line.split(" "))).distinct().count();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }finally {
+            System.out.println(uniqueWords);
+        }*/
+
+
+
+
+        /*
+        5.7.1  由值创建流
+         */
+       /* Stream<String> stream = Stream.of("aaa","bbb","ccc");
+        stream.map(String::toUpperCase).forEach(it -> System.out.println(it));
+        Stream<Object> emptyStream = Stream.empty();*/
+        /*
+        5.7.2  由数组创建流
+         */
+   /*     int [] numbers = {1,2,3,4,5};
+        int sum = Arrays.stream(numbers).sum();
+        System.out.println(sum);
+*/
+
+
+
+
 
         /*
         5.6.3 数值流应用：勾股数
