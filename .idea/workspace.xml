@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/dmt/InstallSoftware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/dmt/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/ComputerBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/IBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/IComputerBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/NoveIBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/OffNovelBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/yldz/Driver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/yldz/IDriver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz/NoveIBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz/OffNovelBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Emperor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Minister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Minister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/yldz/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/yldz/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/yldz/IDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/yldz/IDriver.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,10 +38,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/BookStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="349">
               <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -97,51 +88,83 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/NoveIBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz/NoveIBookTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/OffNovelBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz/OffNovelBookTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="421">
               <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Random.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="391" column="30" lean-forward="true" selection-start-line="391" selection-start-column="30" selection-end-line="391" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Emperor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Minister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#284#292#0" expanded="true" />
+                <element signature="e#370#379#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+                <element signature="e#981#982#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Minister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -173,11 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/EmployeeFactory.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/CglibDbQueryInterceptor.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JavassistDynDbQueryHandler.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/Main.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQuery.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Apple.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Letter.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/publicwecat/ListTest.java" />
@@ -224,6 +242,11 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/IComputerBook.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/ComputerBook.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/BookStore.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Emperor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Minister.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Singleton.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Minister.java" />
       </list>
     </option>
   </component>
@@ -478,8 +501,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -487,9 +509,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="lsp" type="462c0819:PsiDirectoryNode" />
-              <item name="kbyz" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="singleinstance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="singleinstance" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -677,7 +708,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BookStore">
+  <component name="RunManager" selected="Application.Minister (1)">
     <configuration name="BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiankang.design.lsp.kbyz.BookStore" />
       <module name="main" />
@@ -691,12 +722,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.design.lsp.yldz.Driver1" />
+    <configuration name="Minister (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.singleinstance.v2.Minister" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.design.lsp.yldz.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.singleinstance.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -704,12 +735,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstallSoftware" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.design.lsp.dmt.InstallSoftware" />
+    <configuration name="Minister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.singleinstance.v1.Minister" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.design.lsp.dmt.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.singleinstance.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -750,19 +781,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Driver1" />
-      <item itemvalue="Application.InstallSoftware" />
       <item itemvalue="Application.BookStore" />
       <item itemvalue="JUnit.NoveIBookTest.getPrice" />
       <item itemvalue="JUnit.OffNovelBookTest.getPrice" />
+      <item itemvalue="Application.Minister" />
+      <item itemvalue="Application.Minister (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minister (1)" />
+        <item itemvalue="Application.Minister" />
         <item itemvalue="Application.BookStore" />
         <item itemvalue="JUnit.OffNovelBookTest.getPrice" />
         <item itemvalue="JUnit.NoveIBookTest.getPrice" />
-        <item itemvalue="Application.InstallSoftware" />
-        <item itemvalue="Application.Driver1" />
       </list>
     </recent_temporary>
   </component>
@@ -788,7 +819,7 @@
       <workItem from="1571744324210" duration="4721000" />
       <workItem from="1571910647158" duration="8055000" />
       <workItem from="1572079101740" duration="11352000" />
-      <workItem from="1572340623268" duration="28340000" />
+      <workItem from="1572340623268" duration="31507000" />
     </task>
     <servers />
   </component>
@@ -816,7 +847,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154362000" />
+    <option name="totallyTimeSpent" value="157529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
@@ -835,7 +866,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.16188289" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3869116" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39839265" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.304248" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -889,69 +920,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mystudy20190927$Demo__1_.ic" NAME="Demo (1) Coverage Results" MODIFIED="1570504623212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jiankang.localtime.*</FILTER>
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="44" column="33" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Currency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="3" selection-start-column="6" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Dish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/IntSummaryStatistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
-          <folding>
-            <element signature="e#3145#3146#0" expanded="true" />
-            <element signature="e#3173#3174#0" expanded="true" />
-            <element signature="e#3371#3372#0" expanded="true" />
-            <element signature="e#3397#3398#0" expanded="true" />
-            <element signature="e#3636#3637#0" expanded="true" />
-            <element signature="e#3662#3663#0" expanded="true" />
-            <element signature="e#3901#3902#0" expanded="true" />
-            <element signature="e#3927#3928#0" expanded="true" />
-            <element signature="e#4155#4156#0" expanded="true" />
-            <element signature="e#4232#4233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2646">
@@ -1438,12 +1436,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/lsp/kbyz/BookStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="349">
           <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#250#257#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Minister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Emperor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v1/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#284#292#0" expanded="true" />
+            <element signature="e#370#379#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Minister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="391" column="30" lean-forward="true" selection-start-line="391" selection-start-column="30" selection-end-line="391" selection-end-column="30" />
         </state>
       </provider>
     </entry>
