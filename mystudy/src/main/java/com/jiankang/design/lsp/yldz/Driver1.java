@@ -5,13 +5,11 @@ package com.jiankang.design.lsp.yldz;
  *@date 2019/10/31 time 19:27
  */
 
-/*
-构造方法传递依赖对象
- */
-public class Driver implements IDriver {
+
+public class Driver1 implements IDriver1 {
     private ICar car;
 
-    public Driver(ICar car){
+    public void setCar(ICar car){
         this.car=car;
     }
 
@@ -24,7 +22,9 @@ public class Driver implements IDriver {
 
 
     public static void main(String[] args) {
-        Driver driver = new Driver(new BaoBa());
+
+        IDriver1 driver=new Driver1();
+        driver.setCar(new BaoBa());
         driver.driver();
     }
 }
