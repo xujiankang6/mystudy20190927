@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/BeforeAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/DynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/IAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/MyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/SubjectDynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/AdvTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v1/PrototypeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v2/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v3/Thing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/GamePlayIH.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/GamePlayIH.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,110 +42,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/BeforeAdvice.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v3/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-              <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v2/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="843" column="22" selection-start-line="843" selection-start-column="22" selection-end-line="843" selection-end-column="22" />
+            <state relative-caret-position="216">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/DynamicProxy.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v3/Thing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="301">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#260#268#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/IAdvice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/MyInvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Downloads/cglib-3.2.6.jar!/net/sf/cglib/proxy/Proxy.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/ProxyGamePlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/RealSubject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-              <folding>
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/SubjectDynamicProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -179,14 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v2/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v2/AbstractClass.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v1/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v3/HummerModel.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v3/HummerH2Model.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v3/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v3/HummerH1Model.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/BenzModel.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/BMWModel.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/CarBuilder.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/CarModel.java" />
@@ -230,6 +145,14 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/DynamicProxy.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/SubjectDynamicProxy.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/AdvTemplate.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/Mail.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v1/PrototypeClass.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v2/Thing.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v2/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v3/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v3/Thing.java" />
       </list>
     </option>
   </component>
@@ -453,35 +376,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="proxybybook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="staticproxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -491,7 +385,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-              <item name="proxypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -500,8 +394,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-              <item name="proxypattern" type="462c0819:PsiDirectoryNode" />
-              <item name="v5" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -510,8 +404,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-              <item name="proxypattern" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -782,6 +676,7 @@
       <recent name="com.jiankang.designismethod2.proxypattern.v6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiankang.designismethod2.prototypepattern.v3" />
       <recent name="com.jiankang.designismethod2.abstractfactory" />
       <recent name="com.jiankang.designismethod2.factorymethod.v5" />
       <recent name="com.jiankang.design.lsp.yldz" />
@@ -809,20 +704,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.v3.Client" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiankang.designismethod2.proxypattern.v3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client (5)">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.v5.Client" />
       <module name="main" />
@@ -836,12 +718,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.Client" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.prototypepattern.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.designismethod2.proxypattern.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.prototypepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.prototypepattern.v2.Client" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiankang.designismethod2.prototypepattern.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -850,11 +745,11 @@
       </method>
     </configuration>
     <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.v2.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.prototypepattern.v3.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.designismethod2.proxypattern.v2.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.prototypepattern.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -876,19 +771,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client (4)" />
-      <item itemvalue="Application.Client (5)" />
-      <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -920,7 +815,7 @@
       <workItem from="1573110753472" duration="583000" />
       <workItem from="1573182841721" duration="6498000" />
       <workItem from="1573441888570" duration="15852000" />
-      <workItem from="1573615402520" duration="19960000" />
+      <workItem from="1573615402520" duration="23740000" />
     </task>
     <servers />
   </component>
@@ -948,7 +843,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212716000" />
+    <option name="totallyTimeSpent" value="216496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
@@ -959,7 +854,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.17237687" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.17237687" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.13008565" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.30195177" />
@@ -967,7 +862,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.29506314" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.36509758" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3467279" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.304248" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -1057,77 +952,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/CarBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/CarModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="28" column="56" lean-forward="true" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
-          <folding>
-            <element signature="e#253#261#0" expanded="true" />
-            <element signature="e#1215#1216#0" expanded="true" />
-            <element signature="e#1255#1256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/GamePlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-          <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/IGamePlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/RealSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -1489,13 +1313,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Downloads/cglib-3.2.6.jar!/net/sf/cglib/proxy/Proxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/RealSubject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1559,10 +1376,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/DynamicProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
+        <state relative-caret-position="167">
           <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/cglib-3.2.6.jar!/net/sf/cglib/proxy/Proxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v1/PrototypeClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/AdvTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v2/Thing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="62" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/prototypepattern/v3/Thing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="e#260#268#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
           </folding>
         </state>
       </provider>
