@@ -24,6 +24,9 @@ public class GamePlayIH implements InvocationHandler {
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
         Object result = method.invoke(this.obj,args);
+        if(method.getName().equalsIgnoreCase("login")){
+            System.out.println("有人在用我的账号登陆");
+        }
         return result;
     }
 }
