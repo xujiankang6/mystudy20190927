@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/BeforeAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/DynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/IAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/SubjectDynamicProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/GamePlayIH.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/GamePlayIH.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,12 +41,34 @@
     <favorites_list name="mystudy20190927" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/BeforeAdvice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="31" column="83" lean-forward="true" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+            <state relative-caret-position="297">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="843" column="22" selection-start-line="843" selection-start-column="22" selection-end-line="843" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/DynamicProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,67 +77,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/IAdvice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="460" column="59" lean-forward="true" selection-start-line="460" selection-start-column="59" selection-end-line="460" selection-end-column="59" />
+            <state relative-caret-position="243">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Trader.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/MyInvocationHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="491">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding>
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Transaction.java">
+        <entry file="jar://$USER_HOME$/Downloads/cglib-3.2.6.jar!/net/sf/cglib/proxy/Proxy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/ProxyGamePlayer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/RealSubject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
               <folding>
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/stream/Stream.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/SubjectDynamicProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="606" column="34" lean-forward="true" selection-start-line="606" selection-start-column="34" selection-end-line="606" selection-end-column="34" />
+            <state relative-caret-position="227">
+              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/function/BinaryOperator.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="56" column="56" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/function/Function.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="416">
+              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -121,6 +156,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -141,45 +179,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/produce" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Course.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseBuilder.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Coach.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/v2/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/v2/Course.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/Order.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/IOrderService.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/IOrderDao.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/OrderDaoImpl.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/OrderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/DynamicDB.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/OrderServiceStaticProxy.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/dynamicproxy/OrderServiceDynamicProxy.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/dynamicproxy/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/IDBQuery.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQueryProxy.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JdkQueryHandler.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Employee.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Manager.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/EmployeeFactory.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/CglibDbQueryInterceptor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v2/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v2/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v1/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v3/HummerModel.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v3/HummerH2Model.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v3/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/templatemethod/v3/HummerH1Model.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/BenzModel.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/BMWModel.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/CarBuilder.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/CarModel.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/BenzBuilder.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/BMWBuilder.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/v1/Builder.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/v1/Product.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/v1/ConcreteProduct.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/v1/Director.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/Director.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/IGamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/GamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/ProxyGamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/package-info.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/Subject.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/RealSubject.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/Proxy.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v2/GamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v2/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v2/IGamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v2/ProxyGamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/IGamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/GamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v4/IProxy.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v4/GamePlayerProxy.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/IProxy.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/ProxyGamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/GamePlayer.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/OrderServiceDynamicProxy.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JavassistDynDbQueryHandler.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/Main.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQuery.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Apple.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Letter.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/publicwecat/ListTest.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Singleton.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Trader.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Transaction.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/GamePlayIH.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Subject.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/RealSubject.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/MyInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/IAdvice.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/BeforeAdvice.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/DynamicProxy.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/SubjectDynamicProxy.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Client.java" />
       </list>
     </option>
   </component>
@@ -191,11 +241,17 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1607" />
-    <option name="y" value="-141" />
-    <option name="width" value="1380" />
-    <option name="height" value="744" />
+    <option name="x" value="1358" />
+    <option name="y" value="-318" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -358,37 +414,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\mystudy20190927" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\mystudy20190927" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="mystudy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\mystudy20190927" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="mystudy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -420,7 +445,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="java8book" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -428,8 +453,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="java8book" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -437,7 +462,9 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="localtime" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="proxybybook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -445,11 +472,99 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="publicwecat" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="staticproxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="proxypattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="proxypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="v5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="proxypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="v6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="kbyz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="singletoninstance" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -460,6 +575,41 @@
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="sf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="sf" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="sf" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
@@ -474,6 +624,56 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -501,10 +701,56 @@
               <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="stream" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\mystudy20190927" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\mystudy20190927" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="mystudy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\mystudy20190927" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="mystudy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -516,12 +762,40 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570447562633" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yunshihouduan/fc-crm-bus" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.FreeMarker" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jiankang.design.lsp.kbyz" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jiankang.designismethod2.proxypattern.v6" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiankang.designismethod2.abstractfactory" />
+      <recent name="com.jiankang.designismethod2.factorymethod.v5" />
+      <recent name="com.jiankang.design.lsp.yldz" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\proxypattern\v5" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\proxypattern\v3" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\proxypattern\v2" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\templatemethod\v1" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\factorymethod\v3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -535,13 +809,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.java8book.LambdaTest" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.v3.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.java8book.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.proxypattern.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -549,12 +823,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.publicwecat.ListTest" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.v5.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.publicwecat.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.proxypattern.v5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -562,12 +836,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.design.proxy.proxybybook.Main" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.design.proxy.proxybybook.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.proxypattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -575,12 +849,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.design.construction.Test" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.v2.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.design.construction.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.proxypattern.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -588,25 +862,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.localtime.TestLocal" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.proxypattern.v6.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.localtime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.design.proxy.proxybybook.Test" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiankang.design.proxy.proxybybook.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.proxypattern.v6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -615,19 +876,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestLocal" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.LambdaTest" />
-      <item itemvalue="Application.ListTest" />
-      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LambdaTest" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.TestLocal" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -648,6 +909,18 @@
       <workItem from="1570700998073" duration="12232000" />
       <workItem from="1571147996033" duration="988000" />
       <workItem from="1571227105605" duration="21043000" />
+      <workItem from="1571618709665" duration="2033000" />
+      <workItem from="1571647338593" duration="19052000" />
+      <workItem from="1571744324210" duration="4721000" />
+      <workItem from="1571910647158" duration="8055000" />
+      <workItem from="1572079101740" duration="11352000" />
+      <workItem from="1572340623268" duration="42613000" />
+      <workItem from="1572916785203" duration="593000" />
+      <workItem from="1573050624820" duration="595000" />
+      <workItem from="1573110753472" duration="583000" />
+      <workItem from="1573182841721" duration="6498000" />
+      <workItem from="1573441888570" duration="15852000" />
+      <workItem from="1573615402520" duration="19960000" />
     </task>
     <servers />
   </component>
@@ -661,9 +934,21 @@
     <history-entry file="SerSingletonTest_test_(1) - 2019.10.08 at 11h 45m 41s.xml">
       <configuration name="SerSingletonTest.test (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NoveIBookTest_getPrice - 2019.11.02 at 15h 26m 52s.xml">
+      <configuration name="NoveIBookTest.getPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OffNovelBookTest_getPrice - 2019.11.02 at 15h 30m 16s.xml">
+      <configuration name="OffNovelBookTest.getPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OffNovelBookTest_getPrice - 2019.11.02 at 15h 30m 31s.xml">
+      <configuration name="OffNovelBookTest.getPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OffNovelBookTest_getPrice - 2019.11.02 at 15h 31m 05s.xml">
+      <configuration name="OffNovelBookTest.getPrice" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76245000" />
+    <option name="totallyTimeSpent" value="212716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
@@ -674,15 +959,47 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.12313433" />
-      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.20895523" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.17237687" />
+      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.13008565" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.30195177" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.29506314" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3467279" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.304248" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32976446" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.09115139" />
+      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.29954615" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.33296213" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.30734965" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.16703786" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39914772" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32628062" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -699,10 +1016,40 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Maven" order="9" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/factorymethod/v3/Test.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mystudy20190927$Demo__1_.ic" NAME="Demo (1) Coverage Results" MODIFIED="1570504623212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -710,262 +1057,138 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/Test.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/CarBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="378">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/IDBQuery.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/CarModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/EmployeeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="106">
+          <caret line="28" column="56" lean-forward="true" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#190#207#0" expanded="true" />
+            <element signature="e#253#261#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Employee.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/builderpattern/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="376">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Manager.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/GamePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="565">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../应用下载/javassist-3.16.1-GA.jar!/javassist/CtField.class" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQueryProxy.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/IGamePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="405">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/CglibDbQueryInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        <state relative-caret-position="216">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/RealSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../应用下载/javassist-3.16.1-GA.jar!/javassist/ClassPool.class" />
-    <entry file="jar://$USER_HOME$/Downloads/javassist-3.25.0-GA.jar!/javassist/ClassPool.class" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/Main.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v1/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="39" column="66" lean-forward="true" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+        <state relative-caret-position="332">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/reflect/InvocationHandler.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/reflect/Proxy.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JdkQueryHandler.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v2/GamePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Locale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12231">
-          <caret line="513" column="61" selection-start-line="513" selection-start-column="57" selection-end-line="513" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/util/locale/BaseLocale.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/format/DateTimeFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10476">
-          <caret line="482" column="19" selection-start-line="482" selection-start-column="19" selection-end-line="482" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/Period.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8451">
-          <caret line="410" column="12" selection-start-line="410" selection-start-column="12" selection-end-line="410" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
           <folding>
-            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/LocalDate.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v2/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="1706" column="5" selection-start-line="1706" selection-start-column="5" selection-end-line="1706" selection-end-column="5" />
-          <folding>
-            <element signature="e#15963#15964#0" expanded="true" />
-            <element signature="e#16031#16032#0" expanded="true" />
-            <element signature="e#32541#32542#0" expanded="true" />
-            <element signature="e#32567#32568#0" expanded="true" />
-            <element signature="e#34633#34634#0" expanded="true" />
-            <element signature="e#34695#34696#0" expanded="true" />
-            <element signature="e#35573#35574#0" expanded="true" />
-            <element signature="e#35622#35623#0" expanded="true" />
-            <element signature="e#59603#59604#0" expanded="true" />
-            <element signature="e#59669#59670#0" expanded="true" />
-            <element signature="e#77790#77791#0" expanded="true" />
-            <element signature="e#77841#77842#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="201">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JavassistDynDbQueryHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/OrderServiceDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Apple.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Letter.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="15" selection-start-line="15" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.AbstractList">
+    <entry file="uml://JAVA/com.jiankang.designismethod2.proxypattern.v3">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>java.util.AbstractList</OriginalElement>
+          <OriginalElement>com.jiankang.designismethod2.proxypattern.v3</OriginalElement>
           <nodes>
-            <node x="787.4774208387638" y="244.22295484167762">java.util.AbstractCollection</node>
-            <node x="-74.45219658054128" y="562.5533236218662">java.util.List</node>
-            <node x="877.2421030437781" y="967.8649850494519">java.util.AbstractList.ListItr</node>
-            <node x="376.5684466763782" y="162.76838150732195">java.util.Collection</node>
-            <node x="233.54548416775276" y="896.0648623782873">java.util.AbstractList</node>
-            <node x="615.2260407881621" y="981.4307291267346">java.util.AbstractList.Itr</node>
-            <node x="-141.74950164839368" y="230.971018937361">java.lang.Iterable</node>
+            <node x="530.0" y="304.0">com.jiankang.designismethod2.proxypattern.v3.ProxyGamePlayer</node>
+            <node x="104.75" y="-4.0">com.jiankang.designismethod2.proxypattern.v3.IGamePlayer</node>
+            <node x="-187.0" y="229.0">com.jiankang.designismethod2.proxypattern.v3.GamePlayer</node>
+            <node x="819.0" y="135.0">com.jiankang.designismethod2.proxypattern.v3.Client</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="java.util.AbstractList.ListItr" target="java.util.AbstractList.Itr">
-              <point x="-42.25" y="-99.5" />
-              <point x="243.5" y="2186.0" />
-              <point x="226.25" y="2186.0" />
-              <point x="0.0" y="99.5" />
+            <edge source="com.jiankang.designismethod2.proxypattern.v3.ProxyGamePlayer" target="com.jiankang.designismethod2.proxypattern.v3.IGamePlayer">
+              <point x="0.0" y="-96.5" />
+              <point x="391.5" y="164.0" />
+              <point x="309.75" y="164.0" />
+              <point x="57.0" y="69.5" />
             </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-341.0" />
-              <point x="140.5" y="656.0" />
-              <point x="220.75" y="656.0" />
-              <point x="-65.0" y="237.5" />
-            </edge>
-            <edge source="java.util.AbstractList.ListItr" target="java.util.AbstractList">
-              <point x="42.25" y="-99.5" />
-              <point x="328.0" y="2186.0" />
-              <point x="345.25" y="2186.0" />
-              <point x="345.25" y="1937.0" />
-              <point x="360.5" y="1937.0" />
-              <point x="74.75" y="249.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.List">
-              <point x="-74.75" y="-249.5" />
-              <point x="211.0" y="1388.0" />
-              <point x="140.5" y="1388.0" />
-              <point x="0.0" y="341.0" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-237.5" />
-              <point x="0.0" y="53.0" />
-            </edge>
-            <edge source="java.util.AbstractList.Itr" target="java.util.AbstractList">
-              <point x="0.0" y="-99.5" />
-              <point x="226.25" y="1937.0" />
-              <point x="211.0" y="1937.0" />
-              <point x="-74.75" y="249.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="74.75" y="-249.5" />
-              <point x="360.5" y="1388.0" />
-              <point x="431.0" y="1388.0" />
-              <point x="0.0" y="227.0" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-227.0" />
-              <point x="431.0" y="656.0" />
-              <point x="350.75" y="656.0" />
-              <point x="65.0" y="237.5" />
+            <edge source="com.jiankang.designismethod2.proxypattern.v3.GamePlayer" target="com.jiankang.designismethod2.proxypattern.v3.IGamePlayer">
+              <point x="0.0" y="-109.5" />
+              <point x="530.0" y="516.0" />
+              <point x="528.75" y="390.0" />
+              <point x="-57.0" y="69.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.1819664703217039" x="24.0" y="855.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-132.0" y="189.0" />
           <SelectedNodes>
-            <node>java.lang.Iterable</node>
+            <node>com.jiankang.designismethod2.proxypattern.v3.ProxyGamePlayer</node>
           </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
@@ -979,182 +1202,365 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/AbstractList.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/IGamePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
+        <state relative-caret-position="124">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
+        <state relative-caret-position="378">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/GamePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="407" column="35" lean-forward="true" selection-start-line="407" selection-start-column="35" selection-end-line="407" selection-end-column="35" />
+        <state relative-caret-position="432">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
           <folding>
-            <element signature="e#13713#13714#0" expanded="true" />
-            <element signature="e#13768#13769#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Deque.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v2/IGamePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1917">
-          <caret line="295" column="4" selection-start-line="295" selection-start-column="4" selection-end-line="295" selection-end-column="18" />
+        <state relative-caret-position="162">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/main.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/publicwecat/ListTest.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v4/GamePlayerProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="351">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/IProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/ProxyGamePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/IGamePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v2/ProxyGamePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/ProxyGamePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/reflect/MethodAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="497" column="20" selection-start-line="497" selection-start-column="20" selection-end-line="497" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/CglibDbQueryInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQueryProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/IDBQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JavassistDynDbQueryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/SerSingleton.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JdkQueryHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="178">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-839">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/OrderServiceDynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/OrderServiceStaticProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.jiankang.designismethod2.proxypattern.v5">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.jiankang.designismethod2.proxypattern.v5</OriginalElement>
+          <nodes>
+            <node x="0.0" y="162.0">com.jiankang.designismethod2.proxypattern.v5.GamePlayer</node>
+            <node x="0.0" y="373.0">com.jiankang.designismethod2.proxypattern.v5.GamePlayIH</node>
+            <node x="138.75" y="0.0">com.jiankang.designismethod2.proxypattern.v5.IGamePlayer</node>
+            <node x="248.0" y="162.0">com.jiankang.designismethod2.proxypattern.v5.ProxyGamePlayer</node>
+            <node x="374.0" y="373.0">com.jiankang.designismethod2.proxypattern.v5.Client</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.jiankang.designismethod2.proxypattern.v5.GamePlayer" target="com.jiankang.designismethod2.proxypattern.v5.IGamePlayer">
+              <point x="0.0" y="-83.0" />
+              <point x="114.0" y="137.0" />
+              <point x="195.75" y="137.0" />
+              <point x="-57.0" y="56.0" />
+            </edge>
+            <edge source="com.jiankang.designismethod2.proxypattern.v5.ProxyGamePlayer" target="com.jiankang.designismethod2.proxypattern.v5.IGamePlayer">
+              <point x="0.0" y="-83.0" />
+              <point x="391.5" y="137.0" />
+              <point x="309.75" y="137.0" />
+              <point x="57.0" y="56.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-250.0" y="162.0" />
+          <SelectedNodes>
+            <node>com.jiankang.designismethod2.proxypattern.v5.ProxyGamePlayer</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/GamePlayIH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/GamePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/BeforeAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/cglib-3.2.6.jar!/net/sf/cglib/proxy/Proxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/RealSubject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
           <folding>
-            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/StaticSingleton.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/IAdvice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="243">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/SingletonLazyInstance.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/MyInvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="491">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3186">
-          <caret line="154" column="28" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Coach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Test.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+          <caret line="843" column="22" selection-start-line="843" selection-start-column="22" selection-end-line="843" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="606" column="34" lean-forward="true" selection-start-line="606" selection-start-column="34" selection-end-line="606" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/function/BinaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="56" column="56" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Trader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Transaction.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v5/ProxyGamePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/SubjectDynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/proxypattern/v6/DynamicProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="460" column="59" lean-forward="true" selection-start-line="460" selection-start-column="59" selection-end-line="460" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="31" column="83" lean-forward="true" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+        <state relative-caret-position="254">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1227,6 +1633,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

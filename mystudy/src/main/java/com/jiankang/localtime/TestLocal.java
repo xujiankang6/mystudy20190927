@@ -22,15 +22,30 @@ public class TestLocal {
 
     public static void main(String[] args) {
 
+        //格式化日期
+  /*      LocalDate localDate=LocalDate.now();
+        String s1 = localDate.format(DateTimeFormatter.BASIC_ISO_DATE);//20191029
+        String s2 = localDate.format(DateTimeFormatter.ISO_LOCAL_DATE);//2019-10-29
+        DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+        String s3 = localDate.format(dateTimeFormatter);//29/10/2019*/
+
+
+        //解析日期
+     /*   LocalDate localDate1 = LocalDate.parse("20191212",DateTimeFormatter.BASIC_ISO_DATE);
+        System.out.println(localDate1);
+        LocalDate localDate2 = LocalDate.parse("2019-12-12",DateTimeFormatter.ISO_LOCAL_DATE);
+        System.out.println(localDate2);*/
+
+
 
         //拿到中国的本周一
-        ZoneId zone = ZoneId.of("UTC+8");
+       /* ZoneId zone = ZoneId.of("UTC+8");
         LocalDateTime defaultTime = LocalDateTime.of(LocalDate.now(), LocalTime.of(0, 0, 0, 0));
         Instant instant = defaultTime.toInstant(ZoneOffset.of("+8"));
         LocalDateTime dateTime = LocalDateTime.ofInstant(instant, zone);
         LocalDateTime monday = dateTime.with(DayOfWeek.SUNDAY);
         long mondayTimestamp = monday.atZone(zone).toInstant().toEpochMilli();
-        System.out.println(mondayTimestamp);
+        System.out.println(mondayTimestamp);*/
 
 
         //获取当前日期所在月的第一个周一

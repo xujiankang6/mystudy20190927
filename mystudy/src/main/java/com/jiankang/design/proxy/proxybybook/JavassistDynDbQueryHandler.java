@@ -5,7 +5,6 @@ import javassist.*;
 import javassist.util.proxy.MethodHandler;
 import javassist.util.proxy.ProxyFactory;
 import javassist.util.proxy.ProxyObject;
-
 import java.lang.reflect.Method;
 
 public class JavassistDynDbQueryHandler implements MethodHandler {
