@@ -14,6 +14,5 @@ public class Client {
         Thing clonething = thing.clone();
         clonething.setValue("lisi");
         System.out.println(thing.getValue());
-
     }
 }
