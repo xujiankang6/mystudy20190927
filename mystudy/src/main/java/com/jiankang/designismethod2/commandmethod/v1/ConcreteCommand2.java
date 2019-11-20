@@ -6,15 +6,20 @@ package com.jiankang.designismethod2.commandmethod.v1;
  */
 
 public class ConcreteCommand2 extends Command {
-    //哪个Receiver类进行命令处理
-    private Receiver receiver;
 
-    public ConcreteCommand2(Receiver receiver) {
-        this.receiver = receiver;
+
+    public ConcreteCommand2() {
+        super(new ConcreteReciver2());
     }
 
+    public ConcreteCommand2(Receiver receiver1) {
+        super(receiver1);
+    }
+
+    //每个具体的名利都必须实现一个命令
     @Override
     public void execute() {
-        this.receiver.doSomething();
+        //业务处理
+        super.receiver.doSomething();
     }
 }
