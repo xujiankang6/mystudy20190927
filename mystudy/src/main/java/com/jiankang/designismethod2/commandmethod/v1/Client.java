@@ -12,7 +12,7 @@ public class Client {
         Invoker invoker = new Invoker();
 
         //定义一个发送给接收者的命令
-        Command command =new ConcreteCommand1();
+        Command command =new ConcreteCommand1(new ConcreteReciver2());
         //把命令交给调用者去执行
         invoker.setCommand(command);
         invoker.action();
