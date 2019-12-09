@@ -7,12 +7,10 @@ package com.jiankang.java8book.collections;
 
 import com.jiankang.java8book.bean.Dish;
 import com.jiankang.java8book.utils.PrimeNumbersCollector;
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.IntStream;
-
 import static java.util.stream.Collectors.partitioningBy;
 
 public class Test {

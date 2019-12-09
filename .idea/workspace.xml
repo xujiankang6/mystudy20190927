@@ -2,18 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/ILetterProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/LetterProcessImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/ModenPostOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/Police.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Facade2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v1/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v1/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v2/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v2/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v2/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v3/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v3/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v3/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v5/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/CommonEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/CommonEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/IVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ObjectStruture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/CommonEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IShowVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ITotalVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ShowVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/TotalVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/AbsActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/IdiotRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/KungFuRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/OldActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/YoungActor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/collections/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/collections/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,204 +82,168 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassA.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/AbsActor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Context.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Facade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="159">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Facade2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding>
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/ModenPostOffice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.jiankang.designismethod2.facadepattern.v2">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.jiankang.designismethod2.facadepattern.v2</OriginalElement>
-              <nodes>
-                <node x="295.5" y="273.0">com.jiankang.designismethod2.facadepattern.v2.Facade</node>
-                <node x="295.5" y="514.0">com.jiankang.designismethod2.facadepattern.v2.Facade2</node>
-                <node x="395.5" y="136.5">com.jiankang.designismethod2.facadepattern.v2.ClassB</node>
-                <node x="225.0" y="0.0">com.jiankang.designismethod2.facadepattern.v2.ClassA</node>
-                <node x="72.75" y="110.0">com.jiankang.designismethod2.facadepattern.v2.Context</node>
-                <node x="0.0" y="0.0">com.jiankang.designismethod2.facadepattern.v2.ClassC</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.jiankang.designismethod2.facadepattern.v2.Facade2" target="com.jiankang.designismethod2.facadepattern.v2.Facade">
-                  <point x="-42.0" y="-43.5" />
-                  <point x="-42.0" y="95.5" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.facadepattern.v2.Facade" target="com.jiankang.designismethod2.facadepattern.v2.ClassB">
-                  <point x="70.0" y="-95.5" />
-                  <point x="449.5" y="253.0" />
-                  <point x="550.0" y="253.0" />
-                  <point x="51.5" y="30.0" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.facadepattern.v2.Context" target="com.jiankang.designismethod2.facadepattern.v2.ClassA">
-                  <point x="81.0" y="-56.5" />
-                  <point x="261.75" y="85.0" />
-                  <point x="302.25" y="85.0" />
-                  <point x="-25.75" y="30.0" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.facadepattern.v2.Context" target="com.jiankang.designismethod2.facadepattern.v2.ClassC">
-                  <point x="-81.0" y="-56.5" />
-                  <point x="99.75" y="85.0" />
-                  <point x="51.25" y="85.0" />
-                  <point x="-51.25" y="30.0" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.facadepattern.v2.Facade" target="com.jiankang.designismethod2.facadepattern.v2.Context">
-                  <point x="-70.0" y="-95.5" />
-                  <point x="309.5" y="253.0" />
-                  <point x="126.75" y="253.0" />
-                  <point x="-54.0" y="56.5" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.facadepattern.v2.Facade" target="com.jiankang.designismethod2.facadepattern.v2.ClassA">
-                  <point x="-14.0" y="-95.5" />
-                  <point x="365.5" y="253.0" />
-                  <point x="374.0" y="253.0" />
-                  <point x="374.0" y="85.0" />
-                  <point x="353.75" y="85.0" />
-                  <point x="25.75" y="30.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.893719806763285" x="301.0" y="344.6972972972973" />
-              <SelectedNodes>
-                <node>com.jiankang.designismethod2.facadepattern.v2.Facade</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.jiankang.designismethod2.observablepattern.v3">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.jiankang.designismethod2.observablepattern.v3</OriginalElement>
-              <nodes>
-                <node x="0.0" y="430.0">com.jiankang.designismethod2.observablepattern.v3.ConcreteObserver1</node>
-                <node x="0.0" y="0.0">com.jiankang.designismethod2.observablepattern.v3.Subject</node>
-                <node x="21.5" y="215.0">com.jiankang.designismethod2.observablepattern.v3.ConcreteSubject</node>
-                <node x="264.0" y="430.0">com.jiankang.designismethod2.observablepattern.v3.ConcreteObserver</node>
-                <node x="0.0" y="535.0">com.jiankang.designismethod2.observablepattern.v3.Client</node>
-                <node x="174.75" y="320.0">com.jiankang.designismethod2.observablepattern.v3.Observer</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.jiankang.designismethod2.observablepattern.v3.ConcreteSubject" target="com.jiankang.designismethod2.observablepattern.v3.Subject">
-                  <point x="0.0" y="-30.0" />
-                  <point x="0.0" y="82.5" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.observablepattern.v3.ConcreteObserver" target="com.jiankang.designismethod2.observablepattern.v3.Observer">
-                  <point x="0.0" y="-30.0" />
-                  <point x="380.5" y="405.0" />
-                  <point x="289.5" y="405.0" />
-                  <point x="38.25" y="30.0" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.observablepattern.v3.ConcreteObserver1" target="com.jiankang.designismethod2.observablepattern.v3.Observer">
-                  <point x="0.0" y="-30.0" />
-                  <point x="122.0" y="405.0" />
-                  <point x="213.0" y="405.0" />
-                  <point x="-38.25" y="30.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.8731707317073171" x="-979.1284916201116" y="221.9134078212291" />
-              <SelectedNodes>
-                <node>com.jiankang.designismethod2.observablepattern.v3.Observer</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/Police.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/CommonEmployee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/IdiotRole.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
-                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/KungFuRole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/OldActor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.jiankang.designismethod2.visitorpattern.v3">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.jiankang.designismethod2.visitorpattern.v3</OriginalElement>
+              <nodes>
+                <node x="0.0" y="802.0">com.jiankang.designismethod2.visitorpattern.v3.Manager</node>
+                <node x="345.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor</node>
+                <node x="216.0" y="802.0">com.jiankang.designismethod2.visitorpattern.v3.CommonEmployee</node>
+                <node x="0.0" y="298.0">com.jiankang.designismethod2.visitorpattern.v3.ShowVisitor</node>
+                <node x="470.0" y="560.0">com.jiankang.designismethod2.visitorpattern.v3.Client</node>
+                <node x="158.75" y="0.0">com.jiankang.designismethod2.visitorpattern.v3.IVisitor</node>
+                <node x="285.0" y="246.0">com.jiankang.designismethod2.visitorpattern.v3.TotalVisitor</node>
+                <node x="39.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor</node>
+                <node x="111.25" y="560.0">com.jiankang.designismethod2.visitorpattern.v3.Employee</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.jiankang.designismethod2.visitorpattern.v3.TotalVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor">
+                  <point x="0.0" y="-134.5" />
+                  <point x="0.0" y="30.0" />
+                </edge>
+                <edge source="com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IVisitor">
+                  <point x="0.0" y="-30.0" />
+                  <point x="132.5" y="111.0" />
+                  <point x="223.5" y="111.0" />
+                  <point x="-64.75" y="43.0" />
+                </edge>
+                <edge source="com.jiankang.designismethod2.visitorpattern.v3.Manager" target="com.jiankang.designismethod2.visitorpattern.v3.Employee">
+                  <point x="0.0" y="-43.5" />
+                  <point x="98.0" y="777.0" />
+                  <point x="160.25" y="777.0" />
+                  <point x="-49.0" y="96.0" />
+                </edge>
+                <edge source="com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IVisitor">
+                  <point x="0.0" y="-30.0" />
+                  <point x="444.0" y="111.0" />
+                  <point x="353.0" y="111.0" />
+                  <point x="64.75" y="43.0" />
+                </edge>
+                <edge source="com.jiankang.designismethod2.visitorpattern.v3.CommonEmployee" target="com.jiankang.designismethod2.visitorpattern.v3.Employee">
+                  <point x="0.0" y="-43.5" />
+                  <point x="320.5" y="777.0" />
+                  <point x="258.25" y="777.0" />
+                  <point x="49.0" y="96.0" />
+                </edge>
+                <edge source="com.jiankang.designismethod2.visitorpattern.v3.ShowVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor">
+                  <point x="0.0" y="-82.5" />
+                  <point x="0.0" y="30.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.911991199119912" x="-407.48130277442704" y="273.16043425814235" />
+              <SelectedNodes>
+                <node>com.jiankang.designismethod2.visitorpattern.v3.Employee</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Role.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/YoungActor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -263,6 +264,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>FR</find>
+      <find>filter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -279,57 +281,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v2/Branch.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v2/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v3/Leaf.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v3/Branch.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v3/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v3/Corp.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v4/Component.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v4/Leaf.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v4/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v4/Composite.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v5/Component.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v5/Leaf.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v5/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v6/Corp.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/componentpattern/v6/Branch.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/IHanFeiZi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/ILiSi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/LiSi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/HanFeiZi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/Spy.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/Observer.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/IHanFeiZi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/HanFeiZi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/LiSi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/WangSi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/LiuSi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/Observable.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/Observer.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/ConcreteObserver.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/Subject.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/ConcreteSubject.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/ConcreteObserver1.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/LiSi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/LiuSi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/WangSi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/HanFeiZi.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/ILetterProcess.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/LetterProcessImpl.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/Police.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/ModenPostOffice.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassA.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassC.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassB.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Facade2.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Context.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Facade.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v1/Memento.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v1/Boy.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v1/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v2/Boy.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v2/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v2/Caretaker.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v3/Originator.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v3/Memento.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v3/Caretaker.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v3/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Caretaker.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Originator.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v5/Originator.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v5/BeanUtils.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/collections/Test.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/CommonEmployee.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Manager.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Employee.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/IVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Visitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/CommonEmployee.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Manager.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Employee.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Element.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/IVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Visitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement1.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement2.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ObjectStruture.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Visitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IShowVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/ShowVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ITotalVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Visitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/TotalVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ShowVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/AbsActor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/YoungActor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/OldActor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Role.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/KungFuRole.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/IdiotRole.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java" />
       </list>
     </option>
   </component>
@@ -514,6 +516,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -575,14 +578,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -592,7 +587,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-              <item name="facadepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="visitorpattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -601,7 +596,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-              <item name="facadepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="visitorpattern" type="462c0819:PsiDirectoryNode" />
               <item name="v1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -611,8 +606,35 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-              <item name="facadepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="visitorpattern" type="462c0819:PsiDirectoryNode" />
               <item name="v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="visitorpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="v4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="java8book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="java8book" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -821,7 +843,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -836,7 +857,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -849,15 +870,10 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.jiankang.design.lsp.kbyz" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\observablepattern\v4" />
-      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\observablepattern\v2" />
-      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\adapterpattern\v3" />
-      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\resposibilitychainmethod\V2" />
-      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\proxypattern\v5" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jiankang.designismethod2.componentpattern.v1" />
+      <recent name="com.jiankang.designismethod2.iteratorpattern.v1" />
+      <recent name="com.jiankang.designismethod2.proxypattern.v6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jiankang.designismethod2.facadepattern.v2" />
@@ -866,10 +882,15 @@
       <recent name="com.jiankang.designismethod2.resposibilitychainmethod.v3" />
       <recent name="com.jiankang.designismethod2.prototypepattern.v3" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.jiankang.designismethod2.componentpattern.v1" />
-      <recent name="com.jiankang.designismethod2.iteratorpattern.v1" />
-      <recent name="com.jiankang.designismethod2.proxypattern.v6" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\visitorpattern\v3" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\mementopattern\v4" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\mementopattern\v2" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\observablepattern\v4" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\observablepattern\v2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -884,26 +905,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (1)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.observablepattern.v2.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.visitorpattern.v4.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.designismethod2.observablepattern.v2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.observablepattern.v3.Client" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiankang.designismethod2.observablepattern.v3.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.visitorpattern.v4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -912,11 +920,24 @@
       </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.facadepattern.v1.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.visitorpattern.v1.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.designismethod2.facadepattern.v1.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.visitorpattern.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.visitorpattern.v2.Client" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiankang.designismethod2.visitorpattern.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -925,11 +946,11 @@
       </method>
     </configuration>
     <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.observablepattern.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.visitorpattern.v3.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.designismethod2.observablepattern.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.visitorpattern.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -938,11 +959,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.observablepattern.v4.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.visitorpattern.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.designismethod2.observablepattern.v4.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.visitorpattern.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -951,19 +972,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client (5)" />
-      <item itemvalue="Application.Client (1)" />
-      <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -1003,7 +1024,10 @@
       <workItem from="1574063659119" duration="1891000" />
       <workItem from="1574069147813" duration="43981000" />
       <workItem from="1574388543356" duration="14021000" />
-      <workItem from="1574644552341" duration="22881000" />
+      <workItem from="1574644552341" duration="35543000" />
+      <workItem from="1575088541009" duration="2617000" />
+      <workItem from="1575251120566" duration="14140000" />
+      <workItem from="1575708730913" duration="13779000" />
     </task>
     <servers />
   </component>
@@ -1031,26 +1055,27 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309630000" />
+    <option name="totallyTimeSpent" value="352828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.17130621" />
-      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.12955032" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.18020834" />
+      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.13115631" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.17451206" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.23030303" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.19402985" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.29965556" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.36677814" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39576367" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.304248" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1073,16 +1098,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.18094218" />
-      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.13008565" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.18020834" />
+      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.13115631" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.30195177" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.23030303" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32146958" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.047072332" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.36677814" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39609644" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.304248" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1142,6 +1167,32 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Client.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Client.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java</url>
+          <line>8</line>
+          <properties class="com.jiankang.designismethod2.visitorpattern.v1.IVisitor" method="visit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1151,440 +1202,137 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/LiSi.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/strategypattern/v1/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="363">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/HanFeiZi.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/strategypattern/v1/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/Spy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/IHanFeiZi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/LiuSi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="231">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/Spy.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/strategypattern/v2/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/IHanFeiZi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="231">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/WangSi.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/strategypattern/v2/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="660">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.jiankang.designismethod2.observablepattern.v2">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.jiankang.designismethod2.observablepattern.v2</OriginalElement>
-          <nodes>
-            <node x="354.5" y="398.0">com.jiankang.designismethod2.observablepattern.v2.Observer</node>
-            <node x="0.0" y="508.0">com.jiankang.designismethod2.observablepattern.v2.LiuSi</node>
-            <node x="0.0" y="13.0">com.jiankang.designismethod2.observablepattern.v2.IHanFeiZi</node>
-            <node x="59.75" y="162.0">com.jiankang.designismethod2.observablepattern.v2.HanFeiZi</node>
-            <node x="222.0" y="0.0">com.jiankang.designismethod2.observablepattern.v2.Observable</node>
-            <node x="614.0" y="508.0">com.jiankang.designismethod2.observablepattern.v2.LiSi</node>
-            <node x="0.0" y="639.0">com.jiankang.designismethod2.observablepattern.v2.Client</node>
-            <node x="307.0" y="508.0">com.jiankang.designismethod2.observablepattern.v2.WangSi</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.jiankang.designismethod2.observablepattern.v2.WangSi" target="com.jiankang.designismethod2.observablepattern.v2.Observer">
-              <point x="0.0" y="-43.0" />
-              <point x="0.0" y="30.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.observablepattern.v2.LiSi" target="com.jiankang.designismethod2.observablepattern.v2.Observer">
-              <point x="0.0" y="-43.0" />
-              <point x="757.5" y="483.0" />
-              <point x="514.5" y="483.0" />
-              <point x="64.0" y="30.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.observablepattern.v2.LiuSi" target="com.jiankang.designismethod2.observablepattern.v2.Observer">
-              <point x="0.0" y="-43.0" />
-              <point x="143.5" y="483.0" />
-              <point x="386.5" y="483.0" />
-              <point x="-64.0" y="30.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.observablepattern.v2.HanFeiZi" target="com.jiankang.designismethod2.observablepattern.v2.Observable">
-              <point x="85.0" y="-95.5" />
-              <point x="314.75" y="137.0" />
-              <point x="358.5" y="137.0" />
-              <point x="0.0" y="56.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.observablepattern.v2.HanFeiZi" target="com.jiankang.designismethod2.observablepattern.v2.IHanFeiZi">
-              <point x="-85.0" y="-95.5" />
-              <point x="144.75" y="137.0" />
-              <point x="101.0" y="137.0" />
-              <point x="0.0" y="43.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-83.5" y="210.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/Observer.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/strategypattern/v2/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="462">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/Observable.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/strategypattern/v3/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="462">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/LiSi.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/utils/PrimeNumbersCollector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="278">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/HanFeiZi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="e#281#291#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/ConcreteObserver1.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/collections/theeightcharpter/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/ConcreteSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/ConcreteObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/Observer.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/utils/ToListCollector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="33">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/Client.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/ConcreteSubject.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/Subject.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/ConcreteObserver.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/ConcreteObserver1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v3/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <element signature="e#286#296#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v2/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/WangSi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-295">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="153" column="37" lean-forward="true" selection-start-line="153" selection-start-column="37" selection-end-line="153" selection-end-column="37" />
-          <folding>
-            <element signature="e#2047#2048#0" expanded="true" />
-            <element signature="e#2083#2084#0" expanded="true" />
-            <element signature="e#2952#2953#0" expanded="true" />
-            <element signature="e#2988#2989#0" expanded="true" />
-            <element signature="e#3747#3748#0" expanded="true" />
-            <element signature="e#3784#3785#0" expanded="true" />
-            <element signature="e#5696#5697#0" expanded="true" />
-            <element signature="e#5735#5736#0" expanded="true" />
-            <element signature="e#5937#5938#0" expanded="true" />
-            <element signature="e#5967#5968#0" expanded="true" />
-            <element signature="e#6483#6484#0" expanded="true" />
-            <element signature="e#6514#6515#0" expanded="true" />
-            <element signature="e#6978#6979#0" expanded="true" />
-            <element signature="e#7008#7009#0" expanded="true" />
-            <element signature="e#7210#7211#0" expanded="true" />
-            <element signature="e#7243#7244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="165" column="16" selection-start-line="165" selection-start-column="16" selection-end-line="165" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/LiuSi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/LiSi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/HanFeiZi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="5602">
+          <caret line="177" column="67" selection-start-line="177" selection-start-column="61" selection-end-line="177" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/IHanFeiZi.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v5/Originator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="33">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/LetterProcessImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/ILetterProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/ModenPostOffice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.jiankang.designismethod2.observablepattern.v3">
+    <entry file="uml://JAVA/com.jiankang.designismethod2.visitorpattern.v1">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.jiankang.designismethod2.observablepattern.v3</OriginalElement>
+          <OriginalElement>com.jiankang.designismethod2.visitorpattern.v1</OriginalElement>
           <nodes>
-            <node x="0.0" y="430.0">com.jiankang.designismethod2.observablepattern.v3.ConcreteObserver1</node>
-            <node x="0.0" y="0.0">com.jiankang.designismethod2.observablepattern.v3.Subject</node>
-            <node x="21.5" y="215.0">com.jiankang.designismethod2.observablepattern.v3.ConcreteSubject</node>
-            <node x="264.0" y="430.0">com.jiankang.designismethod2.observablepattern.v3.ConcreteObserver</node>
-            <node x="0.0" y="535.0">com.jiankang.designismethod2.observablepattern.v3.Client</node>
-            <node x="174.75" y="320.0">com.jiankang.designismethod2.observablepattern.v3.Observer</node>
+            <node x="180.5" y="456.0">com.jiankang.designismethod2.visitorpattern.v1.Client</node>
+            <node x="447.0" y="242.0">com.jiankang.designismethod2.visitorpattern.v1.Visitor</node>
+            <node x="0.0" y="280.5">com.jiankang.designismethod2.visitorpattern.v1.CommonEmployee</node>
+            <node x="514.0" y="53.0">com.jiankang.designismethod2.visitorpattern.v1.IVisitor</node>
+            <node x="109.5" y="0.0">com.jiankang.designismethod2.visitorpattern.v1.Employee</node>
+            <node x="229.0" y="280.5">com.jiankang.designismethod2.visitorpattern.v1.Manager</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="com.jiankang.designismethod2.observablepattern.v3.ConcreteSubject" target="com.jiankang.designismethod2.observablepattern.v3.Subject">
-              <point x="0.0" y="-30.0" />
-              <point x="0.0" y="82.5" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v1.Client" target="com.jiankang.designismethod2.visitorpattern.v1.CommonEmployee">
+              <point x="-98.33333333333331" y="-43.0" />
+              <point x="229.66666666666669" y="431.0" />
+              <point x="104.5" y="431.0" />
+              <point x="0.0" y="43.5" />
             </edge>
-            <edge source="com.jiankang.designismethod2.observablepattern.v3.ConcreteObserver" target="com.jiankang.designismethod2.observablepattern.v3.Observer">
-              <point x="0.0" y="-30.0" />
-              <point x="380.5" y="405.0" />
-              <point x="289.5" y="405.0" />
-              <point x="38.25" y="30.0" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v1.CommonEmployee" target="com.jiankang.designismethod2.visitorpattern.v1.Employee">
+              <point x="0.0" y="-43.5" />
+              <point x="104.5" y="217.0" />
+              <point x="159.0" y="217.0" />
+              <point x="-49.5" y="96.0" />
             </edge>
-            <edge source="com.jiankang.designismethod2.observablepattern.v3.ConcreteObserver1" target="com.jiankang.designismethod2.observablepattern.v3.Observer">
-              <point x="0.0" y="-30.0" />
-              <point x="122.0" y="405.0" />
-              <point x="213.0" y="405.0" />
-              <point x="-38.25" y="30.0" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v1.Visitor" target="com.jiankang.designismethod2.visitorpattern.v1.IVisitor">
+              <point x="0.0" y="-82.0" />
+              <point x="0.0" y="43.0" />
+            </edge>
+            <edge source="com.jiankang.designismethod2.visitorpattern.v1.Manager" target="com.jiankang.designismethod2.visitorpattern.v1.Employee">
+              <point x="0.0" y="-43.5" />
+              <point x="328.0" y="217.0" />
+              <point x="258.0" y="217.0" />
+              <point x="49.5" y="96.0" />
+            </edge>
+            <edge source="com.jiankang.designismethod2.visitorpattern.v1.Client" target="com.jiankang.designismethod2.visitorpattern.v1.Manager">
+              <point x="0.0" y="-43.0" />
+              <point x="0.0" y="43.5" />
+            </edge>
+            <edge source="com.jiankang.designismethod2.visitorpattern.v1.Client" target="com.jiankang.designismethod2.visitorpattern.v1.Visitor">
+              <point x="98.33333333333337" y="-43.0" />
+              <point x="426.33333333333337" y="431.0" />
+              <point x="644.5" y="431.0" />
+              <point x="0.0" y="82.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.8731707317073171" x="-979.1284916201116" y="221.9134078212291" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-135.0" y="178.0" />
           <SelectedNodes>
-            <node>com.jiankang.designismethod2.observablepattern.v3.Observer</node>
+            <node>com.jiankang.designismethod2.visitorpattern.v1.Visitor</node>
           </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
@@ -1598,122 +1346,395 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v1/Police.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/collections/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="62" column="64" lean-forward="true" selection-start-line="62" selection-start-column="64" selection-end-line="62" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.jiankang.designismethod2.visitorpattern.v2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.jiankang.designismethod2.visitorpattern.v2</OriginalElement>
+          <nodes>
+            <node x="0.0" y="534.0">com.jiankang.designismethod2.visitorpattern.v2.Client</node>
+            <node x="305.0" y="267.0">com.jiankang.designismethod2.visitorpattern.v2.ObjectStruture</node>
+            <node x="143.0" y="0.0">com.jiankang.designismethod2.visitorpattern.v2.Element</node>
+            <node x="253.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v2.ConcreteElement2</node>
+            <node x="0.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v2.ConcreteElement1</node>
+            <node x="0.0" y="403.0">com.jiankang.designismethod2.visitorpattern.v2.Visitor</node>
+            <node x="0.0" y="267.0">com.jiankang.designismethod2.visitorpattern.v2.IVisitor</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.jiankang.designismethod2.visitorpattern.v2.ConcreteElement2" target="com.jiankang.designismethod2.visitorpattern.v2.Element">
+              <point x="0.0" y="-43.0" />
+              <point x="369.5" y="111.0" />
+              <point x="293.0" y="111.0" />
+              <point x="50.0" y="43.0" />
+            </edge>
+            <edge source="com.jiankang.designismethod2.visitorpattern.v2.Visitor" target="com.jiankang.designismethod2.visitorpattern.v2.IVisitor">
+              <point x="0.0" y="-43.0" />
+              <point x="0.0" y="43.0" />
+            </edge>
+            <edge source="com.jiankang.designismethod2.visitorpattern.v2.ConcreteElement1" target="com.jiankang.designismethod2.visitorpattern.v2.Element">
+              <point x="0.0" y="-43.0" />
+              <point x="116.5" y="111.0" />
+              <point x="193.0" y="111.0" />
+              <point x="-50.0" y="43.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-253.5" y="135.5" />
+          <SelectedNodes>
+            <node>com.jiankang.designismethod2.visitorpattern.v2.Client</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ObjectStruture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassA.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/ClassB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Facade2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="462">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Context.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Visitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="363">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/facadepattern/v2/Facade.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="33">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding>
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/CommonEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="19" selection-start-line="19" selection-end-line="22" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="40" selection-start-line="40" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
             <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.jiankang.designismethod2.facadepattern.v2">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/IVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/CommonEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IShowVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/ShowVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IShowVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ITotalVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+          <folding>
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/TotalVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ShowVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/CommonEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.jiankang.designismethod2.visitorpattern.v3">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.jiankang.designismethod2.facadepattern.v2</OriginalElement>
+          <OriginalElement>com.jiankang.designismethod2.visitorpattern.v3</OriginalElement>
           <nodes>
-            <node x="295.5" y="273.0">com.jiankang.designismethod2.facadepattern.v2.Facade</node>
-            <node x="295.5" y="514.0">com.jiankang.designismethod2.facadepattern.v2.Facade2</node>
-            <node x="395.5" y="136.5">com.jiankang.designismethod2.facadepattern.v2.ClassB</node>
-            <node x="225.0" y="0.0">com.jiankang.designismethod2.facadepattern.v2.ClassA</node>
-            <node x="72.75" y="110.0">com.jiankang.designismethod2.facadepattern.v2.Context</node>
-            <node x="0.0" y="0.0">com.jiankang.designismethod2.facadepattern.v2.ClassC</node>
+            <node x="0.0" y="802.0">com.jiankang.designismethod2.visitorpattern.v3.Manager</node>
+            <node x="345.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor</node>
+            <node x="216.0" y="802.0">com.jiankang.designismethod2.visitorpattern.v3.CommonEmployee</node>
+            <node x="0.0" y="298.0">com.jiankang.designismethod2.visitorpattern.v3.ShowVisitor</node>
+            <node x="470.0" y="560.0">com.jiankang.designismethod2.visitorpattern.v3.Client</node>
+            <node x="158.75" y="0.0">com.jiankang.designismethod2.visitorpattern.v3.IVisitor</node>
+            <node x="285.0" y="246.0">com.jiankang.designismethod2.visitorpattern.v3.TotalVisitor</node>
+            <node x="39.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor</node>
+            <node x="111.25" y="560.0">com.jiankang.designismethod2.visitorpattern.v3.Employee</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="com.jiankang.designismethod2.facadepattern.v2.Facade2" target="com.jiankang.designismethod2.facadepattern.v2.Facade">
-              <point x="-42.0" y="-43.5" />
-              <point x="-42.0" y="95.5" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.TotalVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor">
+              <point x="0.0" y="-134.5" />
+              <point x="0.0" y="30.0" />
             </edge>
-            <edge source="com.jiankang.designismethod2.facadepattern.v2.Facade" target="com.jiankang.designismethod2.facadepattern.v2.ClassB">
-              <point x="70.0" y="-95.5" />
-              <point x="449.5" y="253.0" />
-              <point x="550.0" y="253.0" />
-              <point x="51.5" y="30.0" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IVisitor">
+              <point x="0.0" y="-30.0" />
+              <point x="132.5" y="111.0" />
+              <point x="223.5" y="111.0" />
+              <point x="-64.75" y="43.0" />
             </edge>
-            <edge source="com.jiankang.designismethod2.facadepattern.v2.Context" target="com.jiankang.designismethod2.facadepattern.v2.ClassA">
-              <point x="81.0" y="-56.5" />
-              <point x="261.75" y="85.0" />
-              <point x="302.25" y="85.0" />
-              <point x="-25.75" y="30.0" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.Manager" target="com.jiankang.designismethod2.visitorpattern.v3.Employee">
+              <point x="0.0" y="-43.5" />
+              <point x="98.0" y="777.0" />
+              <point x="160.25" y="777.0" />
+              <point x="-49.0" y="96.0" />
             </edge>
-            <edge source="com.jiankang.designismethod2.facadepattern.v2.Context" target="com.jiankang.designismethod2.facadepattern.v2.ClassC">
-              <point x="-81.0" y="-56.5" />
-              <point x="99.75" y="85.0" />
-              <point x="51.25" y="85.0" />
-              <point x="-51.25" y="30.0" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IVisitor">
+              <point x="0.0" y="-30.0" />
+              <point x="444.0" y="111.0" />
+              <point x="353.0" y="111.0" />
+              <point x="64.75" y="43.0" />
             </edge>
-            <edge source="com.jiankang.designismethod2.facadepattern.v2.Facade" target="com.jiankang.designismethod2.facadepattern.v2.Context">
-              <point x="-70.0" y="-95.5" />
-              <point x="309.5" y="253.0" />
-              <point x="126.75" y="253.0" />
-              <point x="-54.0" y="56.5" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.CommonEmployee" target="com.jiankang.designismethod2.visitorpattern.v3.Employee">
+              <point x="0.0" y="-43.5" />
+              <point x="320.5" y="777.0" />
+              <point x="258.25" y="777.0" />
+              <point x="49.0" y="96.0" />
             </edge>
-            <edge source="com.jiankang.designismethod2.facadepattern.v2.Facade" target="com.jiankang.designismethod2.facadepattern.v2.ClassA">
-              <point x="-14.0" y="-95.5" />
-              <point x="365.5" y="253.0" />
-              <point x="374.0" y="253.0" />
-              <point x="374.0" y="85.0" />
-              <point x="353.75" y="85.0" />
-              <point x="25.75" y="30.0" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.ShowVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor">
+              <point x="0.0" y="-82.5" />
+              <point x="0.0" y="30.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.893719806763285" x="301.0" y="344.6972972972973" />
+          <settings layout="Hierarchic Group" zoom="0.911991199119912" x="-407.48130277442704" y="273.16043425814235" />
           <SelectedNodes>
-            <node>com.jiankang.designismethod2.facadepattern.v2.Facade</node>
+            <node>com.jiankang.designismethod2.visitorpattern.v3.Employee</node>
           </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
@@ -1724,6 +1745,73 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/YoungActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/IdiotRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/AbsActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/OldActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/KungFuRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
