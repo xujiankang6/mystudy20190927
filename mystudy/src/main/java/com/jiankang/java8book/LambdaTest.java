@@ -64,12 +64,6 @@ public class LambdaTest {
 
 
 
-
-
-
-
-
-
         /*
         5.5.1 test
          */
