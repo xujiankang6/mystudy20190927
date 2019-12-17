@@ -1,5 +1,7 @@
 package com.jiankang.design.construction;
 
+import java.util.ArrayList;
+
 public class Test {
 
     public static void main(String[] args) {
@@ -7,6 +9,5 @@ public class Test {
         Coach coach=new Coach();
         coach.setCourseBuilder(courseBuilder);
         Course course=coach.makeCourse("name","ppt","video","article","qa");
-        System.out.println(course);;
     }
 }
