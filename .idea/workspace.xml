@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/QuackObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackologist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/Quackable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractDuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractDuckFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractGooseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractGooseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/CountingDuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/CountingDuckFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Flock.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Flock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackcounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackcounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RedheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RedheadDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RubberDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RubberDuck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,167 +55,115 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Client.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Flock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/Lift.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="57">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="22" />
               <folding>
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#2132#2133#0" expanded="true" />
-                <element signature="e#2178#2179#0" expanded="true" />
-                <element signature="e#2214#2215#0" expanded="true" />
-                <element signature="e#2260#2261#0" expanded="true" />
-                <element signature="e#2296#2297#0" expanded="true" />
-                <element signature="e#2342#2343#0" expanded="true" />
-                <element signature="e#2377#2378#0" expanded="true" />
-                <element signature="e#2425#2426#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/LiftState.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Goose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="66">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
               <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.jiankang.designismethod2.statuspattern.v3">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.jiankang.designismethod2.statuspattern.v3</OriginalElement>
-              <nodes>
-                <node x="462.0" y="189.0">com.jiankang.designismethod2.statuspattern.v3.ConcreteState1</node>
-                <node x="231.0" y="189.0">com.jiankang.designismethod2.statuspattern.v3.ConcreteState2</node>
-                <node x="0.0" y="189.0">com.jiankang.designismethod2.statuspattern.v3.ConcreteState3</node>
-                <node x="206.0" y="346.0">com.jiankang.designismethod2.statuspattern.v3.Client</node>
-                <node x="256.0" y="0.0">com.jiankang.designismethod2.statuspattern.v3.State</node>
-                <node x="0.0" y="346.0">com.jiankang.designismethod2.statuspattern.v3.Context</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.jiankang.designismethod2.statuspattern.v3.ConcreteState2" target="com.jiankang.designismethod2.statuspattern.v3.State">
-                  <point x="0.0" y="-56.0" />
-                  <point x="0.0" y="69.5" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.statuspattern.v3.ConcreteState3" target="com.jiankang.designismethod2.statuspattern.v3.State">
-                  <point x="0.0" y="-56.0" />
-                  <point x="105.5" y="164.0" />
-                  <point x="282.8333333333333" y="164.0" />
-                  <point x="-53.666666666666686" y="69.5" />
-                </edge>
-                <edge source="com.jiankang.designismethod2.statuspattern.v3.ConcreteState1" target="com.jiankang.designismethod2.statuspattern.v3.State">
-                  <point x="0.0" y="-56.0" />
-                  <point x="567.5" y="164.0" />
-                  <point x="390.16666666666663" y="164.0" />
-                  <point x="53.66666666666663" y="69.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="336.5" y="230.0" />
-              <SelectedNodes>
-                <node>com.jiankang.designismethod2.statuspattern.v3.State</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/State.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Observable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Context.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            <state relative-caret-position="734">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
               <folding>
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#859#860#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#920#921#0" expanded="true" />
-                <element signature="e#946#947#0" expanded="true" />
-                <element signature="e#983#984#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Context.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Observer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="264">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackcounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/QuackObservable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackologist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" selection-start-line="10" selection-end-line="11" />
               <folding>
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RubberDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -232,17 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/CommonEmployee.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Manager.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Employee.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Element.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/IVisitor.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Visitor.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement1.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement2.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ObjectStruture.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Client.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Visitor.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Client.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IShowVisitor.java" />
@@ -283,6 +241,17 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState3.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Context.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/QuackObservable.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackable.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Observable.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RedheadDuck.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckCall.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RubberDuck.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseAdapter.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackcounter.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackologist.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Flock.java" />
       </list>
     </option>
   </component>
@@ -492,6 +461,31 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="headfirstdesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="headfirstdesign" type="462c0819:PsiDirectoryNode" />
+              <item name="modetolmodel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -757,19 +751,6 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.jiankang.design.lsp.kbyz" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.jiankang.designismethod2.statuspattern.v2" />
-      <recent name="com.jiankang.designismethod2.componentpattern.v1" />
-      <recent name="com.jiankang.designismethod2.iteratorpattern.v1" />
-      <recent name="com.jiankang.designismethod2.proxypattern.v6" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.jiankang.designismethod2.statuspattern.v3" />
-      <recent name="com.jiankang.designismethod2.facadepattern.v2" />
-      <recent name="com.jiankang.designismethod2.observablepattern.v3" />
-      <recent name="com.jiankang.designismethod2.observablepattern.v2" />
-      <recent name="com.jiankang.designismethod2.resposibilitychainmethod.v3" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -779,6 +760,20 @@
       <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\mementopattern\v2" />
       <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\observablepattern\v4" />
       <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\observablepattern\v2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiankang.designismethod2.statuspattern.v3" />
+      <recent name="com.jiankang.designismethod2.facadepattern.v2" />
+      <recent name="com.jiankang.designismethod2.observablepattern.v3" />
+      <recent name="com.jiankang.designismethod2.observablepattern.v2" />
+      <recent name="com.jiankang.designismethod2.resposibilitychainmethod.v3" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jiankang.headfirstdesign.modetolmodel" />
+      <recent name="com.jiankang.designismethod2.statuspattern.v2" />
+      <recent name="com.jiankang.designismethod2.componentpattern.v1" />
+      <recent name="com.jiankang.designismethod2.iteratorpattern.v1" />
+      <recent name="com.jiankang.designismethod2.proxypattern.v6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -917,7 +912,7 @@
       <workItem from="1575251120566" duration="14140000" />
       <workItem from="1575708730913" duration="30408000" />
       <workItem from="1576547942840" duration="1322000" />
-      <workItem from="1576572872001" duration="583000" />
+      <workItem from="1576572872001" duration="10089000" />
     </task>
     <servers />
   </component>
@@ -945,7 +940,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="371362000" />
+    <option name="totallyTimeSpent" value="380868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
@@ -955,10 +950,10 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.1895075" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.1895075" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.13062099" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" visible="true" weight="0.33295062" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" visible="true" weight="0.37887487" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5010707" side_tool="true" weight="0.2870264" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -1117,246 +1112,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-          <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IShowVisitor.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/ShowVisitor.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IShowVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Visitor.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ITotalVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-          <folding>
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/TotalVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ShowVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/CommonEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.jiankang.designismethod2.visitorpattern.v3">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.jiankang.designismethod2.visitorpattern.v3</OriginalElement>
-          <nodes>
-            <node x="0.0" y="802.0">com.jiankang.designismethod2.visitorpattern.v3.Manager</node>
-            <node x="351.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor</node>
-            <node x="220.0" y="802.0">com.jiankang.designismethod2.visitorpattern.v3.CommonEmployee</node>
-            <node x="0.0" y="298.0">com.jiankang.designismethod2.visitorpattern.v3.ShowVisitor</node>
-            <node x="474.0" y="560.0">com.jiankang.designismethod2.visitorpattern.v3.Client</node>
-            <node x="160.75" y="0.0">com.jiankang.designismethod2.visitorpattern.v3.IVisitor</node>
-            <node x="289.0" y="246.0">com.jiankang.designismethod2.visitorpattern.v3.TotalVisitor</node>
-            <node x="41.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor</node>
-            <node x="112.25" y="560.0">com.jiankang.designismethod2.visitorpattern.v3.Employee</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.jiankang.designismethod2.visitorpattern.v3.TotalVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor">
-              <point x="0.0" y="-134.5" />
-              <point x="0.0" y="30.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IVisitor">
-              <point x="0.0" y="-30.0" />
-              <point x="134.5" y="111.0" />
-              <point x="226.5" y="111.0" />
-              <point x="-65.75" y="43.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.visitorpattern.v3.Manager" target="com.jiankang.designismethod2.visitorpattern.v3.Employee">
-              <point x="0.0" y="-43.5" />
-              <point x="100.0" y="777.0" />
-              <point x="162.25" y="777.0" />
-              <point x="-50.0" y="96.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IVisitor">
-              <point x="0.0" y="-30.0" />
-              <point x="450.0" y="111.0" />
-              <point x="358.0" y="111.0" />
-              <point x="65.75" y="43.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.visitorpattern.v3.CommonEmployee" target="com.jiankang.designismethod2.visitorpattern.v3.Employee">
-              <point x="0.0" y="-43.5" />
-              <point x="324.5" y="777.0" />
-              <point x="262.25" y="777.0" />
-              <point x="50.0" y="96.0" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.visitorpattern.v3.ShowVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor">
-              <point x="0.0" y="-82.5" />
-              <point x="0.0" y="30.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.911991199119912" x="-407.0" y="273.0" />
-          <SelectedNodes>
-            <node>com.jiankang.designismethod2.visitorpattern.v3.Employee</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/YoungActor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/IdiotRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/AbsActor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/OldActor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/KungFuRole.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -1607,9 +1362,9 @@
           <ID>JAVA</ID>
           <OriginalElement>com.jiankang.designismethod2.statuspattern.v3</OriginalElement>
           <nodes>
-            <node x="462.0" y="189.0">com.jiankang.designismethod2.statuspattern.v3.ConcreteState1</node>
+            <node x="0.0" y="189.0">com.jiankang.designismethod2.statuspattern.v3.ConcreteState1</node>
             <node x="231.0" y="189.0">com.jiankang.designismethod2.statuspattern.v3.ConcreteState2</node>
-            <node x="0.0" y="189.0">com.jiankang.designismethod2.statuspattern.v3.ConcreteState3</node>
+            <node x="462.0" y="189.0">com.jiankang.designismethod2.statuspattern.v3.ConcreteState3</node>
             <node x="206.0" y="346.0">com.jiankang.designismethod2.statuspattern.v3.Client</node>
             <node x="256.0" y="0.0">com.jiankang.designismethod2.statuspattern.v3.State</node>
             <node x="0.0" y="346.0">com.jiankang.designismethod2.statuspattern.v3.Context</node>
@@ -1622,21 +1377,19 @@
             </edge>
             <edge source="com.jiankang.designismethod2.statuspattern.v3.ConcreteState3" target="com.jiankang.designismethod2.statuspattern.v3.State">
               <point x="0.0" y="-56.0" />
-              <point x="105.5" y="164.0" />
-              <point x="282.8333333333333" y="164.0" />
-              <point x="-53.666666666666686" y="69.5" />
-            </edge>
-            <edge source="com.jiankang.designismethod2.statuspattern.v3.ConcreteState1" target="com.jiankang.designismethod2.statuspattern.v3.State">
-              <point x="0.0" y="-56.0" />
               <point x="567.5" y="164.0" />
               <point x="390.16666666666663" y="164.0" />
               <point x="53.66666666666663" y="69.5" />
             </edge>
+            <edge source="com.jiankang.designismethod2.statuspattern.v3.ConcreteState1" target="com.jiankang.designismethod2.statuspattern.v3.State">
+              <point x="0.0" y="-56.0" />
+              <point x="105.5" y="164.0" />
+              <point x="282.8333333333333" y="164.0" />
+              <point x="-53.666666666666686" y="69.5" />
+            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="336.5" y="230.0" />
-          <SelectedNodes>
-            <node>com.jiankang.designismethod2.statuspattern.v3.State</node>
-          </SelectedNodes>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-180.5" y="346.0" />
+          <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
             <Category>Constructors</Category>
@@ -1646,6 +1399,219 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz/NoveIBookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz/OffNovelBookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractDuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/CountingDuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractGooseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RedheadDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RubberDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Goose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackologist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackcounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Flock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/QuackObservable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

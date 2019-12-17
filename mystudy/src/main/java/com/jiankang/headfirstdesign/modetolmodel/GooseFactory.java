@@ -1,7 +1,5 @@
 package com.jiankang.headfirstdesign.modetolmodel;
 
-import com.jiankang.headfirstdesign.Quackable;
-
 public class GooseFactory extends AbstractGooseFactory {
 
     @Override

@@ -1,7 +1,5 @@
 package com.jiankang.headfirstdesign.modetolmodel;
 
-import com.jiankang.headfirstdesign.Quackable;
-
 public class CountingDuckFactory extends AbstractDuckFactory {
     @Override
     public Quackable createMallardDuck() {

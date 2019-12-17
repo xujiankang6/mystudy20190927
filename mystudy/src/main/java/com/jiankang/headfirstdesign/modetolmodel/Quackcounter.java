@@ -1,7 +1,8 @@
 package com.jiankang.headfirstdesign.modetolmodel;
 
-import com.jiankang.headfirstdesign.Quackable;
-
+/**
+ * 装饰者模式
+ */
 public class Quackcounter implements Quackable {
     Quackable duck;
     static int numberOfQuacks;
@@ -18,5 +19,15 @@ public class Quackcounter implements Quackable {
 
     public static int getNumberOfQuacks() {
         return numberOfQuacks;
+    }
+
+    @Override
+    public void registerObserver(Observer observer) {
+
+    }
+
+    @Override
+    public void notifyObservers() {
+
     }
 }
