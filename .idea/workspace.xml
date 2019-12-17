@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modeltomodel/Quackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/ILift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/Lift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/ILift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/Lift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/CloseingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/LiftState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/OpenningState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/RunningState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/StopingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,158 +50,133 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="153488421">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.48" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1004" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="mystudy20190927" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-              <folding>
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Flock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator3.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="429">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseFactory.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/CloseingState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="396">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="891">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#983#984#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackcounter.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Context.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="726">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/Lift.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#2132#2133#0" expanded="true" />
+                <element signature="e#2178#2179#0" expanded="true" />
+                <element signature="e#2214#2215#0" expanded="true" />
+                <element signature="e#2260#2261#0" expanded="true" />
+                <element signature="e#2296#2297#0" expanded="true" />
+                <element signature="e#2342#2343#0" expanded="true" />
+                <element signature="e#2377#2378#0" expanded="true" />
+                <element signature="e#2425#2426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/LiftState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding>
                 <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractDuckFactory.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/State.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractGooseFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-              <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/CountingDuckFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-              <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="594">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -189,6 +186,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -196,6 +196,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>FR</find>
+      <find>filter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -206,82 +207,85 @@
       </map>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/Client.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/v2/Course.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/Order.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/IOrderService.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/IOrderDao.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/OrderDaoImpl.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/OrderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/DynamicDB.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/staticproxy/OrderServiceStaticProxy.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/dynamicproxy/OrderServiceDynamicProxy.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/dynamicproxy/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/IDBQuery.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQueryProxy.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JdkQueryHandler.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Employee.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Manager.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/flyweight/EmployeeFactory.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/CglibDbQueryInterceptor.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JavassistDynDbQueryHandler.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/Main.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQuery.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Apple.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Letter.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/publicwecat/ListTest.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Singleton.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Trader.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Transaction.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackable.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/Quackable.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RedheadDuck.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckCall.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RubberDuck.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Goose.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseAdapter.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackcounter.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractDuckFactory.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckFactory.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/CountingDuckFactory.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractGooseFactory.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseFactory.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator2.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Flock.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator3.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/CommonEmployee.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Manager.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Employee.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Element.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/IVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Visitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement1.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ConcreteElement2.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/ObjectStruture.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v2/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Visitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IShowVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/ShowVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ITotalVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Visitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/TotalVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ShowVisitor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/AbsActor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/YoungActor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/OldActor.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Role.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/KungFuRole.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/IdiotRole.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/ILift.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/Lift.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/ILift.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/Lift.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/LiftState.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/StopingState.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/RunningState.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test1.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test3.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test2.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/List4.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/OpenningState.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/CloseingState.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Context.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/State.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState1.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState2.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState3.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Context.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Client.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/应用下载/apache-maven-3.6.0" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../应用下载/apache-maven-3.6.0" />
         <option name="userSettingsFile" value="D:\应用下载\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="205" />
-    <option name="y" value="240" />
-    <option name="width" value="1235" />
-    <option name="height" value="840" />
+    <option name="x" value="1358" />
+    <option name="y" value="-318" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -461,22 +465,61 @@
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="headfirstdesign" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="headfirstdesign" type="462c0819:PsiDirectoryNode" />
-              <item name="modetolmodel" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="statuspattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="statuspattern" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="statuspattern" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="statuspattern" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -484,7 +527,93 @@
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="kbyz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="singletoninstance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="sf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="sf" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="cglib-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="sf" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -503,6 +632,56 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -529,6 +708,21 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -574,18 +768,45 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576285235629" />
-    <property name="last_opened_file_path" value="D:/javajiankangeducation" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570447562633" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.FreeMarker" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jiankang.design.lsp.kbyz" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jiankang.designismethod2.statuspattern.v2" />
+      <recent name="com.jiankang.designismethod2.componentpattern.v1" />
+      <recent name="com.jiankang.designismethod2.iteratorpattern.v1" />
+      <recent name="com.jiankang.designismethod2.proxypattern.v6" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.jiankang.headfirstdesign.modetolmodel" />
+      <recent name="com.jiankang.designismethod2.statuspattern.v3" />
+      <recent name="com.jiankang.designismethod2.facadepattern.v2" />
+      <recent name="com.jiankang.designismethod2.observablepattern.v3" />
+      <recent name="com.jiankang.designismethod2.observablepattern.v2" />
+      <recent name="com.jiankang.designismethod2.resposibilitychainmethod.v3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\visitorpattern\v3" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\mementopattern\v4" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\mementopattern\v2" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\observablepattern\v4" />
+      <recent name="D:\mystudy20190927\mystudy\src\main\java\com\jiankang\designismethod2\observablepattern\v2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -600,13 +821,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuckSimulator3">
-    <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.headfirstdesign.modetolmodel.DuckSimulator" />
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.statuspattern.v3.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.headfirstdesign.modetolmodel.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.statuspattern.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -614,12 +835,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuckSimulator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.headfirstdesign.modetolmodel.DuckSimulator2" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.statuspattern.v2.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.headfirstdesign.modetolmodel.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.statuspattern.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -627,12 +848,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuckSimulator3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.headfirstdesign.modetolmodel.DuckSimulator3" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.designismethod2.statuspattern.v1.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.headfirstdesign.modetolmodel.*" />
+          <option name="PATTERN" value="com.jiankang.designismethod2.statuspattern.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -640,12 +861,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.java8book.LambdaTest" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.funcationstudy.listremove.Test1" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.java8book.*" />
+          <option name="PATTERN" value="com.jiankang.funcationstudy.listremove.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -653,12 +874,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.design.construction.Test" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.funcationstudy.listremove.Test2" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.design.construction.*" />
+          <option name="PATTERN" value="com.jiankang.funcationstudy.listremove.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -667,21 +888,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LambdaTest" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.DuckSimulator" />
-      <item itemvalue="Application.DuckSimulator2" />
-      <item itemvalue="Application.DuckSimulator3" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DuckSimulator3" />
-        <item itemvalue="Application.DuckSimulator2" />
-        <item itemvalue="Application.DuckSimulator" />
-        <item itemvalue="Application.LambdaTest" />
-        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -700,9 +924,27 @@
       <workItem from="1570700998073" duration="12232000" />
       <workItem from="1571147996033" duration="988000" />
       <workItem from="1571227105605" duration="21043000" />
-      <workItem from="1571744931318" duration="1645000" />
-      <workItem from="1573359946451" duration="593000" />
-      <workItem from="1576241947240" duration="7808000" />
+      <workItem from="1571618709665" duration="2033000" />
+      <workItem from="1571647338593" duration="19052000" />
+      <workItem from="1571744324210" duration="4721000" />
+      <workItem from="1571910647158" duration="8055000" />
+      <workItem from="1572079101740" duration="11352000" />
+      <workItem from="1572340623268" duration="42613000" />
+      <workItem from="1572916785203" duration="593000" />
+      <workItem from="1573050624820" duration="595000" />
+      <workItem from="1573110753472" duration="583000" />
+      <workItem from="1573182841721" duration="6498000" />
+      <workItem from="1573441888570" duration="15852000" />
+      <workItem from="1573615402520" duration="24020000" />
+      <workItem from="1573695511099" duration="10080000" />
+      <workItem from="1574063659119" duration="1891000" />
+      <workItem from="1574069147813" duration="43981000" />
+      <workItem from="1574388543356" duration="14021000" />
+      <workItem from="1574644552341" duration="35543000" />
+      <workItem from="1575088541009" duration="2617000" />
+      <workItem from="1575251120566" duration="14140000" />
+      <workItem from="1575708730913" duration="30408000" />
+      <workItem from="1576547942840" duration="1322000" />
     </task>
     <servers />
   </component>
@@ -716,30 +958,41 @@
     <history-entry file="SerSingletonTest_test_(1) - 2019.10.08 at 11h 45m 41s.xml">
       <configuration name="SerSingletonTest.test (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NoveIBookTest_getPrice - 2019.11.02 at 15h 26m 52s.xml">
+      <configuration name="NoveIBookTest.getPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OffNovelBookTest_getPrice - 2019.11.02 at 15h 30m 16s.xml">
+      <configuration name="OffNovelBookTest.getPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OffNovelBookTest_getPrice - 2019.11.02 at 15h 30m 31s.xml">
+      <configuration name="OffNovelBookTest.getPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OffNovelBookTest_getPrice - 2019.11.02 at 15h 31m 05s.xml">
+      <configuration name="OffNovelBookTest.getPrice" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86291000" />
+    <option name="totallyTimeSpent" value="370779000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="1358" y="-318" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.17024128" />
-      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.20895523" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.18736617" />
+      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.13115631" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.31586403" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" visible="true" weight="0.30884042" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5010707" side_tool="true" weight="0.2870264" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.2592068" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39914772" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32577905" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.26291618" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.40642938" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.304248" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -753,14 +1006,137 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32976446" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.18020834" />
+      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.13115631" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.23030303" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.36677814" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39609644" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.304248" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32976446" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/factorymethod/v3/Test.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/resposibilitychainmethod/V2/Client.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/Client.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Client.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Client.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test1.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Client.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Client.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java</url>
+          <line>8</line>
+          <properties class="com.jiankang.designismethod2.visitorpattern.v1.IVisitor" method="visit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((CloseingState)this.context.liftState).context" custom="com.jiankang.designismethod2.statuspattern.v2.CloseingState" />
+        <watch expression="((CloseingState)this.context.liftState).context" language="JAVA" custom="com.jiankang.designismethod2.statuspattern.v2.CloseingState" />
+        <watch expression="((CloseingState)this.context.liftState).context" language="JAVA" custom="com.jiankang.designismethod2.statuspattern.v2.CloseingState" />
+        <watch expression="((CloseingState)this.context.liftState).context" language="JAVA" custom="com.jiankang.designismethod2.statuspattern.v2.CloseingState" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mystudy20190927$Demo__1_.ic" NAME="Demo (1) Coverage Results" MODIFIED="1570504623212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -768,114 +1144,198 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/format/DateTimeFormatter.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/Period.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/DBQuery.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/CommonEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="187">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/time/LocalDate.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/JavassistDynDbQueryHandler.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="282">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/OrderServiceDynamicProxy.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="276">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/proxy/proxybybook/Test.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Visitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="389">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Apple.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Letter.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        <state relative-caret-position="333">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/java.util.AbstractList">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IShowVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/ShowVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IShowVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Visitor.java" />
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ITotalVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+          <folding>
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/TotalVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/ShowVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/IVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/CommonEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.jiankang.designismethod2.visitorpattern.v3">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>java.util.AbstractList</OriginalElement>
+          <OriginalElement>com.jiankang.designismethod2.visitorpattern.v3</OriginalElement>
           <nodes>
-            <node x="787.4774208387638" y="244.22295484167762">java.util.AbstractCollection</node>
-            <node x="-74.45219658054128" y="562.5533236218662">java.util.List</node>
-            <node x="877.2421030437781" y="967.8649850494519">java.util.AbstractList.ListItr</node>
-            <node x="376.5684466763782" y="162.76838150732195">java.util.Collection</node>
-            <node x="233.54548416775276" y="896.0648623782873">java.util.AbstractList</node>
-            <node x="615.2260407881621" y="981.4307291267346">java.util.AbstractList.Itr</node>
-            <node x="-141.74950164839368" y="230.971018937361">java.lang.Iterable</node>
+            <node x="0.0" y="802.0">com.jiankang.designismethod2.visitorpattern.v3.Manager</node>
+            <node x="351.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor</node>
+            <node x="220.0" y="802.0">com.jiankang.designismethod2.visitorpattern.v3.CommonEmployee</node>
+            <node x="0.0" y="298.0">com.jiankang.designismethod2.visitorpattern.v3.ShowVisitor</node>
+            <node x="474.0" y="560.0">com.jiankang.designismethod2.visitorpattern.v3.Client</node>
+            <node x="160.75" y="0.0">com.jiankang.designismethod2.visitorpattern.v3.IVisitor</node>
+            <node x="289.0" y="246.0">com.jiankang.designismethod2.visitorpattern.v3.TotalVisitor</node>
+            <node x="41.0" y="136.0">com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor</node>
+            <node x="112.25" y="560.0">com.jiankang.designismethod2.visitorpattern.v3.Employee</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="java.util.AbstractList.ListItr" target="java.util.AbstractList.Itr">
-              <point x="-42.25" y="-99.5" />
-              <point x="243.5" y="2186.0" />
-              <point x="226.25" y="2186.0" />
-              <point x="0.0" y="99.5" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.TotalVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor">
+              <point x="0.0" y="-134.5" />
+              <point x="0.0" y="30.0" />
             </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-341.0" />
-              <point x="140.5" y="656.0" />
-              <point x="220.75" y="656.0" />
-              <point x="-65.0" y="237.5" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IVisitor">
+              <point x="0.0" y="-30.0" />
+              <point x="134.5" y="111.0" />
+              <point x="226.5" y="111.0" />
+              <point x="-65.75" y="43.0" />
             </edge>
-            <edge source="java.util.AbstractList.ListItr" target="java.util.AbstractList">
-              <point x="42.25" y="-99.5" />
-              <point x="328.0" y="2186.0" />
-              <point x="345.25" y="2186.0" />
-              <point x="345.25" y="1937.0" />
-              <point x="360.5" y="1937.0" />
-              <point x="74.75" y="249.5" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.Manager" target="com.jiankang.designismethod2.visitorpattern.v3.Employee">
+              <point x="0.0" y="-43.5" />
+              <point x="100.0" y="777.0" />
+              <point x="162.25" y="777.0" />
+              <point x="-50.0" y="96.0" />
             </edge>
-            <edge source="java.util.AbstractList" target="java.util.List">
-              <point x="-74.75" y="-249.5" />
-              <point x="211.0" y="1388.0" />
-              <point x="140.5" y="1388.0" />
-              <point x="0.0" y="341.0" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.ITotalVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IVisitor">
+              <point x="0.0" y="-30.0" />
+              <point x="450.0" y="111.0" />
+              <point x="358.0" y="111.0" />
+              <point x="65.75" y="43.0" />
             </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-237.5" />
-              <point x="0.0" y="53.0" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.CommonEmployee" target="com.jiankang.designismethod2.visitorpattern.v3.Employee">
+              <point x="0.0" y="-43.5" />
+              <point x="324.5" y="777.0" />
+              <point x="262.25" y="777.0" />
+              <point x="50.0" y="96.0" />
             </edge>
-            <edge source="java.util.AbstractList.Itr" target="java.util.AbstractList">
-              <point x="0.0" y="-99.5" />
-              <point x="226.25" y="1937.0" />
-              <point x="211.0" y="1937.0" />
-              <point x="-74.75" y="249.5" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="74.75" y="-249.5" />
-              <point x="360.5" y="1388.0" />
-              <point x="431.0" y="1388.0" />
-              <point x="0.0" y="227.0" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-227.0" />
-              <point x="431.0" y="656.0" />
-              <point x="350.75" y="656.0" />
-              <point x="65.0" y="237.5" />
+            <edge source="com.jiankang.designismethod2.visitorpattern.v3.ShowVisitor" target="com.jiankang.designismethod2.visitorpattern.v3.IShowVisitor">
+              <point x="0.0" y="-82.5" />
+              <point x="0.0" y="30.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.1819664703217039" x="24.0" y="855.0" />
+          <settings layout="Hierarchic Group" zoom="0.911991199119912" x="-407.0" y="273.0" />
           <SelectedNodes>
-            <node>java.lang.Iterable</node>
+            <node>com.jiankang.designismethod2.visitorpattern.v3.Employee</node>
           </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
@@ -889,307 +1349,303 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/AbstractList.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Arrays.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Deque.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/main.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/publicwecat/ListTest.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/YoungActor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="363">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/SerSingleton.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Role.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="264">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/IdiotRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/AbsActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/OldActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/KungFuRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/ILift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/Lift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/StopingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/localtime/TestLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/StaticSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/SingletonLazyInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/singletoninstance/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/ArrayDeque.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/CourseActucalBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Coach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/design/construction/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/function/Function.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/stream/Stream.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/function/BinaryOperator.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java" />
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="247">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Trader.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="297">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/List4.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512">
+          <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/funcationstudy/listremove/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/java8book/bean/Transaction.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/RunningState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="202">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/OpenningState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/ILift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/CloseingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/ConcreteState3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v1/Lift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#2132#2133#0" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+            <element signature="e#2214#2215#0" expanded="true" />
+            <element signature="e#2260#2261#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+            <element signature="e#2342#2343#0" expanded="true" />
+            <element signature="e#2377#2378#0" expanded="true" />
+            <element signature="e#2425#2426#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/Quackable.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/LiftState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RedheadDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/RubberDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Goose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Quackcounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="396">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding>
             <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckFactory.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="594">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/CountingDuckFactory.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        <state relative-caret-position="726">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-          <folding>
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractDuckFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/AbstractGooseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/GooseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/Flock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/DuckSimulator3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1259,6 +1715,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
