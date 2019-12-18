@@ -25,11 +25,15 @@ public class Flock implements Quackable {
 
     @Override
     public void registerObserver(Observer observer) {
-
+        Iterator iterator = quackers.iterator();
+        while (iterator.hasNext()) {
+            Quackable duck = (Quackable) iterator.next();
+            duck.registerObserver(observer);
+        }
     }
 
     @Override
     public void notifyObservers() {
-
+        //委托每一个Quackable去进行通知
     }
 }

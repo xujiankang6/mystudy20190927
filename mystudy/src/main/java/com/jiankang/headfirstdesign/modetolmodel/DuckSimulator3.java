@@ -3,7 +3,7 @@ package com.jiankang.headfirstdesign.modetolmodel;
 public class DuckSimulator3 {
     public static void main(String[] args) {
         DuckSimulator3 duckSimulator = new DuckSimulator3();
-        DuckFactory duckFactory = new DuckFactory();
+        AbstractDuckFactory duckFactory = new CountingDuckFactory();
         duckSimulator.simulate(duckFactory);
 
     }
@@ -15,6 +15,9 @@ public class DuckSimulator3 {
         Quackable rubberDuck = duckFactory.createRubberDuck();
         Quackable gooseAdapter =new GooseAdapter(new Goose());
 
+
+
+
         System.out.println("Duck Simulator");
         Flock flock = new Flock();
         flock.add(mallardDuck);
@@ -22,13 +25,10 @@ public class DuckSimulator3 {
         flock.add(duckSimulator);
         flock.add(rubberDuck);
         flock.add(gooseAdapter);
-
+        Quackologist quackologist = new Quackologist();
+        flock.registerObserver(quackologist);
         simulate(flock);
-
-
-
-
-
+        System.out.println(Quackcounter.numberOfQuacks);
     }
 
     void simulate(Quackable duck) {

@@ -3,6 +3,7 @@ package com.jiankang.headfirstdesign.modetolmodel;
 /**
  * 装饰者模式
  */
+
 public class Quackcounter implements Quackable {
     Quackable duck;
     static int numberOfQuacks;
@@ -23,11 +24,11 @@ public class Quackcounter implements Quackable {
 
     @Override
     public void registerObserver(Observer observer) {
-
+        duck.registerObserver(observer);
     }
 
     @Override
     public void notifyObservers() {
-
+        duck.notifyObservers();
     }
 }

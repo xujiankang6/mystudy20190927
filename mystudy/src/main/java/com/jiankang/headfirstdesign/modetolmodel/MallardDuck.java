@@ -3,7 +3,7 @@ package com.jiankang.headfirstdesign.modetolmodel;
 public class MallardDuck implements Quackable {
     Observable observable;
 
-    public MallardDuck(Observable observable) {
+    public MallardDuck() {
         observable = new Observable(this);
     }
 
