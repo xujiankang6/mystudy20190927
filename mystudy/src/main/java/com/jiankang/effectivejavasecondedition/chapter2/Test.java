@@ -14,8 +14,6 @@ public class Test {
         Boolean a = Test.valueOf(false);
         System.out.println(a);
         List<Object> objects = Collections.emptyList();
-
-
     }
 
 
