@@ -5,7 +5,7 @@ package com.jiankang.designismethod2.accesswarpk.v2;
  *@date 2020/1/12 time 11:11
  */
 
-public abstract  class MailServer {
+public abstract class MailServer {
 
     protected MailTemplate m;
 
@@ -13,7 +13,7 @@ public abstract  class MailServer {
         this.m = m;
     }
 
-    public void sendMail(){
+    public void sendMail() {
         System.out.println(m.getContext());
     }
 }
