@@ -1,13 +1,13 @@
 package com.jiankang.datastructure.v1;
 
+import java.util.Arrays;
+
 public class QuickQueueTest {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 4, 7, 3, 7, 5, 7, 4, 9, 0,8,6};
 //
         QuickQueue(arr, 0, arr.length - 1);
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ,");
-        }
+        System.out.println(Arrays.toString(arr));
     }
 
     private static void QuickQueue(int[] arr, int start, int end) {
