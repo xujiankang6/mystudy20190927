@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/InsertQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/RadixSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/SelectQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/ShellQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v1/CharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/BinarySortTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/QuickQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/QuickQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/note" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/note" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,23 +37,24 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="17" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="23" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="771" />
-          <entry key="PLAIN_TEXT" value="176" />
+          <entry key="JAVA" value="3080" />
+          <entry key="PLAIN_TEXT" value="203" />
         </counts>
       </usages-collector>
     </session>
@@ -67,95 +65,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/QuickQueueTest.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/BinarySortTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/InsertQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="10" selection-start-line="5" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/ShellQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/SelectQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="11" selection-start-line="6" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/RadixSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/note">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="1" column="55" lean-forward="true" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+            <state relative-caret-position="1680">
+              <caret line="60" selection-start-line="60" selection-end-line="65" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v1/CharacterTest.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="436">
+              <caret line="17" selection-start-line="3" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v1/CharacterTest.class">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="3892">
+              <caret line="153" selection-start-line="153" selection-end-line="161" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/otherstudy/note">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/note">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaapi/v1_enumstudy/Coin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -193,10 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v4/Performance.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v4/Tax.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v4/SalaryProvider.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v4/HRFacade.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v4/Client.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v6/IStar.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v6/Singer.java" />
@@ -244,6 +180,10 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/RadixSortTest.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/note" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v1/CharacterTest.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/note" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/BinarySortTree.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Test.java" />
       </list>
     </option>
   </component>
@@ -259,7 +199,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -423,6 +363,9 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -442,12 +385,20 @@
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="datastructure" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -455,24 +406,10 @@
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="mukewang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="mukewang" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -482,8 +419,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -494,7 +431,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580634304591" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581063056410" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/mystudy/src/test/java/com/jiankang/design/lsp/kbyz" />
@@ -549,22 +486,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RadixSortTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="InsertQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiankang.datastructure.v1.InsertQueueTest" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiankang.datastructure.v1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.datastructure.v1.QuickQueueTest" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -615,20 +539,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.datastructure.v2.Test" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiankang.datastructure.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.QuickQueueTest (1)" />
       <item itemvalue="Application.InsertQueueTest" />
       <item itemvalue="Application.ShellQueueTest" />
       <item itemvalue="Application.SelectQueueTest" />
       <item itemvalue="Application.RadixSortTest" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.RadixSortTest" />
         <item itemvalue="Application.SelectQueueTest" />
         <item itemvalue="Application.ShellQueueTest" />
         <item itemvalue="Application.InsertQueueTest" />
-        <item itemvalue="Application.QuickQueueTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -686,7 +623,8 @@
       <workItem from="1578880424735" duration="21906000" />
       <workItem from="1580438815394" duration="5755000" />
       <workItem from="1580466987868" duration="176000" />
-      <workItem from="1580534280324" duration="4482000" />
+      <workItem from="1580534280324" duration="34934000" />
+      <workItem from="1581729190655" duration="596000" />
     </task>
     <servers />
   </component>
@@ -714,7 +652,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="569488000" />
+    <option name="totallyTimeSpent" value="600536000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,24 +664,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.23525469" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.2386059" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.17237687" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" visible="true" weight="0.48680353" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" weight="0.14076246" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5010707" side_tool="true" weight="0.2870264" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32991204" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.1994135" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.2888563" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2228739" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.44721407" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3034483" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -760,6 +697,38 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Maven" order="9" weight="0.32976446" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.23525469" />
+      <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.17237687" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" weight="0.14076246" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5010707" side_tool="true" weight="0.2870264" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.5175953" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.2888563" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3034483" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.20551091" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32976446" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -920,6 +889,18 @@
           <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java</url>
           <line>8</line>
@@ -927,6 +908,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java</url>
+          <line>116</line>
+          <properties class="com.jiankang.datastructure.v2.Node" method="delete">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -958,15 +947,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v7/HotAir.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/LinkedHashMap.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Runtime.java" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/io/WinNTFileSystem.java" />
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v8/IStar.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1171,9 +1151,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/note">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/otherstudy/note">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1195,13 +1172,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/InsertQueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="10" selection-start-line="5" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/SelectQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -1216,35 +1186,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/RadixSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/note">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="1" column="55" lean-forward="true" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+        <state relative-caret-position="-28">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v1/CharacterTest.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        <state relative-caret-position="-17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v1/CharacterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="-8">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/InsertQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/RadixSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/BinarySortTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="60" selection-start-line="60" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3892">
+          <caret line="153" selection-start-line="153" selection-end-line="161" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="17" selection-start-line="3" selection-end-line="17" />
         </state>
       </provider>
     </entry>
