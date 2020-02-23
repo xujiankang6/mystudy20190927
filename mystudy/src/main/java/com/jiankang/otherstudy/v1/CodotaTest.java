@@ -1,6 +1,8 @@
 package com.jiankang.otherstudy.v1;
 
-import java.util.Collection;
+import java.util.Collections;
+import java.util.Objects;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 /**
@@ -10,6 +12,13 @@ import java.util.stream.Collectors;
 public class CodotaTest {
     public static void main(String[] args) {
         Collectors.toList();
+        Collections.emptyList();
+
+        Object o1 = Optional.ofNullable(1).get();
+        System.out.println(o1);
+        boolean b = Objects.nonNull(3);
+        Object o = Objects.requireNonNull(null,"不能为空");
+
 
     }
 }
