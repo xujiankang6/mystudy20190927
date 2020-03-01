@@ -1,12 +1,9 @@
 package com.jiankang.otherstudy.v1;
 
-/**
- * switch语句要先判断是否为空，否则会报空指针异常
- */
-public class TestUrlUtil {
+public class SwitchNullTest {
     public static void main(String[] args) {
         String select = null;
-        switch (select){
+        switch (select="null"){
             case "null":
                 System.out.println("null");
                 break;
@@ -17,5 +14,4 @@ public class TestUrlUtil {
                 System.out.println("nn");
         }
     }
-
 }
