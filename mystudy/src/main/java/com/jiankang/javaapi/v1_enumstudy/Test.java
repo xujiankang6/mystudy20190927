@@ -5,6 +5,8 @@ package com.jiankang.javaapi.v1_enumstudy;
  *@date 2020/1/14 time 16:38
  */
 
+import java.util.Arrays;
+
 public class Test {
     enum CoinColor {COPPER, NICKEL, SILVER}
     static CoinColor color(Coin c){
@@ -24,5 +26,8 @@ public class Test {
         for(Coin c:Coin.values()){
             System.out.println(c + "\t\t"+c.getValue()+"\t"+color(c));
         }
+        Coin[] values = Coin.values();
+        System.out.println(Arrays.asList(values));
+        System.out.println(Coin.valueOf("aaa"));
     }
 }
