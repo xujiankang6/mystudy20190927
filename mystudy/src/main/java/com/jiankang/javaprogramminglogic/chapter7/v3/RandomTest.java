@@ -15,7 +15,6 @@ public class RandomTest {
         Random random = new Random(201608241);
         for (int i = 0; i < 10; i++) {
             System.out.print(random.nextInt(100)+"  ");
-
         }
     }
 }
