@@ -1,4 +1,4 @@
-package com.jiankang.javaprogramminglogic.chapter8.v2;
+package com.jiankang.javaprogramminglogic.chapter9.v2;
 
 /*
  *@create by jiankang
