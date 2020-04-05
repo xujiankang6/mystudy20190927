@@ -18,6 +18,9 @@ public class Test3 {
         list.add(1);
         list.add(1);
 
+
+
+
         Iterator iterator = list.iterator();
         while (iterator.hasNext()) {
             iterator.next();
