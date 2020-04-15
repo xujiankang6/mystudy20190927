@@ -1,5 +1,7 @@
 package com.jiankang.javaprogramminglogic.chapter7.v3;
 
+import java.time.LocalDateTime;
+import java.time.ZoneOffset;
 import java.util.Locale;
 import java.util.TimeZone;
 
@@ -29,5 +31,7 @@ public class TimeTest {
         System.out.println(locale);
 
 
+        long timeStamp = LocalDateTime.now().toInstant(ZoneOffset.of("+08:00")).toEpochMilli();
+        System.out.println(timeStamp);
     }
 }
