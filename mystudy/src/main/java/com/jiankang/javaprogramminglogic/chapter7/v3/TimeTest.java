@@ -1,8 +1,10 @@
 package com.jiankang.javaprogramminglogic.chapter7.v3;
 
+
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoField;
+
 import java.util.Locale;
 import java.util.TimeZone;
 
@@ -107,5 +109,7 @@ public class TimeTest {
         LocalDateTime localDateTime5 = now3.with(ChronoField.DAY_OF_WEEK, 2).atTime(10, 0);
         System.out.println(localDateTime5);
 
+        long timeStamp = LocalDateTime.now().toInstant(ZoneOffset.of("+08:00")).toEpochMilli();
+        System.out.println(timeStamp);
     }
 }
