@@ -5,5 +5,5 @@ package com.jiankang.blog.v2_20200116.v1;
  *@date 2020/1/16 time 17:11
  */
 
-public class Testy {
+public class Test {
 }
