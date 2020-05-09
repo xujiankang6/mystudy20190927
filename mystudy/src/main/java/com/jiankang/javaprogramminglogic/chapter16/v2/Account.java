@@ -9,7 +9,7 @@ package com.jiankang.javaprogramminglogic.chapter16.v2;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class   Account {
+public class Account {
     private Lock lock = new ReentrantLock();
     private volatile double money;
 
