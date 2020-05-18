@@ -9,7 +9,7 @@ public class Test {
     public static void main(String[] args) {
         Child c = new Child();
         c.addAll(new int[]{1,2,3});
-        c.clear();
+
         c.addAll(new int[]{1,2,3});
         System.out.println(c.getSum());
     }

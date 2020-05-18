@@ -7,4 +7,6 @@ package com.jiankang.javaprogramminglogic.chapter5;
 
 public enum Size {
     SMALL,MEDIUM,LARGE
+
+
 }
