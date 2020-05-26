@@ -1,4 +1,4 @@
-package com.jiankang.javaprogramminglogic.chapter26.v1;
+package com.jiankang.javaprogramminglogic.chapter26.v2;
 
 /*
  *@create by jiankang
@@ -8,14 +8,19 @@ package com.jiankang.javaprogramminglogic.chapter26.v1;
 public class Student {
     String name;
     double score;
-
-    public Student(String name, double score) {
-        this.name = name;
-        this.score = score;
-    }
+    String grade;
 
     public String getName() {
         return name;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", score=" + score +
+                ", grade='" + grade + '\'' +
+                '}';
     }
 
     public void setName(String name) {
@@ -30,16 +35,17 @@ public class Student {
         this.score = score;
     }
 
-
-    public static String getCollegeName(){
-        return "jiankang";
+    public String getGrade() {
+        return grade;
     }
 
-    @Override
-    public String toString() {
-        return "Student{" +
-                "name='" + name + '\'' +
-                ", score=" + score +
-                '}';
+    public void setGrade(String grade) {
+        this.grade = grade;
+    }
+
+    public Student(String name, double score, String grade) {
+        this.name = name;
+        this.score = score;
+        this.grade = grade;
     }
 }
