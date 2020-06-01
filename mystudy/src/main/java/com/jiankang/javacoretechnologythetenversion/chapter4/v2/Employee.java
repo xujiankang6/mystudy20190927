@@ -20,5 +20,18 @@ public class Employee {
     public void setName(String name) {
         this.name = name;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        if (!(obj instanceof Employee)) return false;
+        Employee other = (Employee) obj;
+        return other.name.equals(this.name) && name == other.name;
+    }
 }
 
