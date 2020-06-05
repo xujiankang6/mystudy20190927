@@ -4,7 +4,7 @@ import java.nio.charset.Charset;
 import java.util.Arrays;
 
 /**
- * Demo
+ * ArrayDemo
  *
  * @author jiankang.xu
  * @date 2020/3/22
