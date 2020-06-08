@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/QQSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v2/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/LengthComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v4/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v4/Emplayee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/Employee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,22 +57,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/ArrayDemo.java">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/event/ActionListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="693">
+              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v4/CloneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="1783" column="38" selection-start-line="1783" selection-start-column="38" selection-end-line="1783" selection-end-column="38" />
+            <state relative-caret-position="313">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v4/Emplayee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -72,21 +86,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-463">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1023">
+              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/Test.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/LengthComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="495">
+              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,11 +104,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v7/Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/QQSend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="297">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Send.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v2/TimerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,9 +160,9 @@
         <option value="package-info" />
         <option value="JUnit4 Test Class" />
         <option value="AnnotationType" />
-        <option value="Interface" />
         <option value="JavaScript File" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -143,15 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v2/GeneralProxyDemo.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v4/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v1/ClassLoaderDemo.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v1/TestDemo.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v2/CLInitDemo.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v2/IService.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v2/ServiceB.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v1/CLInitDemo.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v2/config.properties" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v2/ConfigurableStrategyDemo.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v3/BinaryFileUtils.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v3/MyClassLoader.java" />
@@ -177,7 +214,6 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v1/LocalDateTest.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/ClassTest.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/ParamTest.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/Employee.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v1/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter1/v1/model.js" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter1/v1/ModelTest.java" />
@@ -194,6 +230,16 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/Demo.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/ArrayDemo.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v7/Test.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Test.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/QQSend.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Send.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v2/TimerTest.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/LengthComparator.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/Test.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/Employee.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/CloneTest.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v4/CloneTest.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v4/Emplayee.java" />
       </list>
     </option>
   </component>
@@ -204,10 +250,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1291" />
-    <option name="y" value="-197" />
+    <option name="x" value="1367" />
+    <option name="y" value="-261" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -403,6 +449,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -490,7 +537,36 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
               <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -580,6 +656,25 @@
               <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
               <item name="chapter5" type="462c0819:PsiDirectoryNode" />
               <item name="v7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="v4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -692,6 +787,23 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="awt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="awt" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -880,7 +992,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -950,13 +1061,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter5.v6.ArrayDemo" />
+  <component name="RunManager" selected="Application.CloneTest">
+    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter6.v4.CloneTest" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter5.v6.*" />
+          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter6.v4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -964,25 +1075,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectAnalyzerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter5.v6.ObjectAnalyzerTest" />
+    <configuration name="LengthComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter6.v3.LengthComparator" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter5.v6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter5.v5.ReflectionTest" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter5.v5.*" />
+          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter6.v4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1004,11 +1102,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter5.v4.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter6.v3.Test" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter5.v4.*" />
+          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter6.v4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1016,12 +1114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter5.v6.Test" />
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter6.v2.TimerTest" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter5.v6.*" />
+          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter6.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1030,19 +1128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.ReflectionTest" />
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.ObjectAnalyzerTest" />
-      <item itemvalue="Application.ArrayDemo" />
+      <item itemvalue="Application.TimerTest" />
+      <item itemvalue="Application.LengthComparator" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.CloneTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CloneTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LengthComparator" />
+        <item itemvalue="Application.TimerTest" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.ArrayDemo" />
-        <item itemvalue="Application.ObjectAnalyzerTest" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.ReflectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1134,7 +1232,8 @@
       <workItem from="1590544748028" duration="29030000" />
       <workItem from="1590990520564" duration="18391000" />
       <workItem from="1591238481376" duration="1409000" />
-      <workItem from="1591259652097" duration="7439000" />
+      <workItem from="1591259652097" duration="17062000" />
+      <workItem from="1591434494736" duration="1324000" />
     </task>
     <servers />
   </component>
@@ -1168,7 +1267,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="923146000" />
+    <option name="totallyTimeSpent" value="934093000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1187,15 +1286,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.16006424" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.16220556" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.17184155" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.36394948" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" weight="0.30769232" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.50344825" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" visible="true" weight="0.23536165" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5010707" side_tool="true" weight="0.2870264" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295063" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.24684271" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3432836" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.32146958" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.29885057" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -1692,98 +1791,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v2/TestBigDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v2/TestGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8514">
-          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Void.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/CompletableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="2073" column="36" selection-start-line="2073" selection-start-column="36" selection-end-line="2073" selection-end-column="36" />
-          <folding>
-            <element signature="e#9762#9763#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
-            <element signature="e#75214#75215#0" expanded="true" />
-            <element signature="e#75265#75266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-          <folding>
-            <element signature="e#2837#2838#0" expanded="true" />
-            <element signature="e#2866#2867#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v3/TestThenRun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1405#1687#0" expanded="true" />
-            <element signature="e#1686#1687#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -2103,17 +2110,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-463">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -2123,11 +2119,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v7/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
+        <state relative-caret-position="381">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/LengthComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/QQSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v2/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v3/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v4/CloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v4/Emplayee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
