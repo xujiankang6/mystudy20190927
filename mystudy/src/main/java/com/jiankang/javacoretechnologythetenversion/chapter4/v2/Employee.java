@@ -5,7 +5,7 @@ package com.jiankang.javacoretechnologythetenversion.chapter4.v2;
  *@date 2020/5/29 time 11:16
  */
 
-public class Employee {
+public class Employee implements Cloneable{
 
     private String name;
 
@@ -32,6 +32,11 @@ public class Employee {
         if (!(obj instanceof Employee)) return false;
         Employee other = (Employee) obj;
         return other.name.equals(this.name) && name == other.name;
+    }
+
+    @Override
+    public Object clone() throws CloneNotSupportedException {
+        return super.clone();
     }
 }
 
