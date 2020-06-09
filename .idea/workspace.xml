@@ -931,7 +931,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591662930141" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591663532570" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/mystudy/src/test/java/com/jiankang" />
@@ -1175,7 +1175,7 @@
       <workItem from="1590990520564" duration="18391000" />
       <workItem from="1591238481376" duration="1409000" />
       <workItem from="1591259652097" duration="7439000" />
-      <workItem from="1591492254703" duration="6625000" />
+      <workItem from="1591492254703" duration="6703000" />
     </task>
     <servers />
   </component>
@@ -1209,7 +1209,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="929771000" />
+    <option name="totallyTimeSpent" value="929849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1222,22 +1222,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.1621984" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.1621984" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.17158177" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.36363637" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" weight="0.31671554" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" visible="true" weight="0.31671554" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5010707" side_tool="true" weight="0.2870264" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295063" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.24633431" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.24633431" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.32146958" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.29765397" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
