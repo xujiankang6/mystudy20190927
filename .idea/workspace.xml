@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter13/v1/ResourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter13/v1/ResourceTestFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter13/v1/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter13/v1/about.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v8/CloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v8/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v9/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v9/lambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/TraceHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,52 +50,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v6/ArrayAlg.java">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1023">
-              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            <state relative-caret-position="949">
+              <caret line="2446" column="9" lean-forward="true" selection-start-line="2446" selection-start-column="9" selection-end-line="2446" selection-end-column="9" />
               <folding>
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#111724#111725#0" expanded="true" />
+                <element signature="e#111781#111782#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Double.java">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/reflect/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v5/InnerClassTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v1/Send.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            <state relative-caret-position="-1596">
+              <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/ProxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v6/StaticInnerClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="342">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -167,6 +152,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/TraceHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -204,8 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v1/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v1/Student.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v1/StudentTest.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v1/Test2.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v2/Student.java" />
@@ -255,6 +252,8 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v5/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v6/ArrayAlg.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v6/StaticInnerClassTest.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/TraceHandler.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/ProxyTest.java" />
       </list>
     </option>
   </component>
@@ -562,27 +561,7 @@
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
               <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="v5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="v8" type="462c0819:PsiDirectoryNode" />
+              <item name="v7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -977,26 +956,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticInnerClassTest">
-    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter6.v4.CloneTest" />
+  <component name="RunManager" selected="Application.ProxyTest">
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter6.v7.ProxyTest" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter6.v4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter6.v5.InnerClassTest" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter6.v5.*" />
+          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter6.v7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1043,20 +1009,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TraceHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter6.v7.TraceHandler" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter6.v7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CloneTest" />
       <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.InnerClassTest" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.StaticInnerClassTest" />
+      <item itemvalue="Application.TraceHandler" />
+      <item itemvalue="Application.ProxyTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="Application.TraceHandler" />
         <item itemvalue="Application.StaticInnerClassTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.InnerClassTest" />
-        <item itemvalue="Application.CloneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1151,7 +1130,7 @@
       <workItem from="1591259652097" duration="17062000" />
       <workItem from="1591434494736" duration="15262000" />
       <workItem from="1591868606551" duration="2466000" />
-      <workItem from="1591881202439" duration="235000" />
+      <workItem from="1591881202439" duration="7100000" />
     </task>
     <servers />
   </component>
@@ -1185,7 +1164,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="950732000" />
+    <option name="totallyTimeSpent" value="957597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1198,6 +1177,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-315" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -1206,14 +1186,14 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.16648822" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.17184155" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.42479908" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" visible="true" weight="0.598163" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.31917337" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49892932" weight="0.5166475" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5010707" side_tool="true" weight="0.2870264" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295063" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.2847302" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.32146958" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3834673" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.32032147" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.29885057" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1633,6 +1613,12 @@
           <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/TraceHandler.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java</url>
           <line>8</line>
@@ -1709,38 +1695,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v1/LocalDateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter1/v1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1062">
-          <caret line="600" column="42" selection-start-line="600" selection-start-column="42" selection-end-line="600" selection-end-column="42" />
-          <folding>
-            <element signature="e#22896#22897#0" expanded="true" />
-            <element signature="e#22925#22926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter4/v2/ClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -2117,8 +2071,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v6/StaticInnerClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="342">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1596">
+          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="949">
+          <caret line="2446" column="9" lean-forward="true" selection-start-line="2446" selection-start-column="9" selection-end-line="2446" selection-end-column="9" />
+          <folding>
+            <element signature="e#111724#111725#0" expanded="true" />
+            <element signature="e#111781#111782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/TraceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
