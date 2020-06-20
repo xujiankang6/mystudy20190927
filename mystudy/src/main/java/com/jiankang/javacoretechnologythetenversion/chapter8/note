@@ -5,4 +5,8 @@
 （4、不能构造泛型化数组
 （5、不能在静态域和方法中引用类型变量  eg:  private staic T first  error;
 （6、不能抛出或者捕获泛型类的实例 catch(T e),在异常规范中使用类型变量是允许的,见doWork()方法
-（7、
+
+
+2、通配符类型
+（1）、 <? extend Employee>  子类型限定符   可以从泛型对象写入  set（）
+（2）、 <? super Employee>  超类型限定符    可以从泛型对象读取  get()
