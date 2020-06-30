@@ -14,7 +14,5 @@ public class Test {
         EnumSet<Weekday> never = EnumSet.noneOf(Weekday.class);
         EnumSet<Weekday> range = EnumSet.range(Weekday.WENDSDAY, Weekday.SUNDAY);
         EnumMap<Weekday, Object> personInCharge = new EnumMap<>(Weekday.class);
-        o
-
     }
 }
