@@ -8,12 +8,9 @@ package com.jiankang.javacoretechnologythetenversion.dchapter5.v1;
 import java.util.Locale;
 import java.util.Properties;
 
-public class Test {
+public class LocaleTest {
     public static void main(String[] args) {
-//        final Locale[] availableLocales = DateFormat.getAvailableLocales();
-//        for (Locale availableLocale : availableLocales) {
-//            System.out.println(availableLocale.getDisplayName());
-//        }
+
 
         final Locale locale = new Locale("de","CH");
         System.out.println(locale.getDisplayName(Locale.GERMAN));
