@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v6_20200918/v1/JavaFuture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v1/TestCompletableFutureSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v2/TestTwoCompletableFuture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v3/CompletableExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v4/StreamTestFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v2/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,10 +48,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v3/CompletableExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="297">
               <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -65,103 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/CompletableFuture.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v2/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61281">
-              <caret line="1924" column="30" selection-start-line="1924" selection-start-column="30" selection-end-line="1924" selection-end-column="30" />
-              <folding>
-                <element signature="e#11041#11042#0" expanded="true" />
-                <element signature="e#11085#11086#0" expanded="true" />
-                <element signature="e#67852#67853#0" expanded="true" />
-                <element signature="e#67883#67884#0" expanded="true" />
-                <element signature="e#69562#69563#0" expanded="true" />
-                <element signature="e#69619#69620#0" expanded="true" />
-                <element signature="e#84041#84042#0" expanded="true" />
-                <element signature="e#84095#84096#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ForkJoinPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89265">
-              <caret line="2769" column="22" selection-start-line="2769" selection-start-column="22" selection-end-line="2769" selection-end-column="22" />
-              <folding>
-                <element signature="e#124289#124290#0" expanded="true" />
-                <element signature="e#124329#124330#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v4/StreamTestFuture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="43" column="87" selection-start-line="43" selection-start-column="74" selection-end-line="43" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v1/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v1/TestCompletableFutureSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39864">
-              <caret line="1268" column="34" selection-start-line="1268" selection-start-column="34" selection-end-line="1268" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/TimeUnit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1221">
-              <caret line="70" column="12" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8514">
-              <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Void.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+            <state relative-caret-position="179">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -206,8 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter11/v2/PersonServiceImpl.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter11/v2/Server.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter11/v2/Client.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter12/v1/com_jiankang_javacoretechnologythetenversion_dchapter12_v1_HelloNative.h" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter12/v1/HelloNative.java" />
@@ -257,6 +158,8 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v2/TestTwoCompletableFuture.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v3/CompletableExceptionTest.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v4/StreamTestFuture.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v2/Test.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v2/Test3.java" />
       </list>
     </option>
   </component>
@@ -266,9 +169,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="170" />
-    <option name="y" value="91" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1715" />
+    <option name="y" value="-85" />
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
@@ -524,9 +427,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javaasynprogrampractice" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
+              <item name="mukewang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -534,7 +435,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
+              <item name="mukewang" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -542,18 +444,9 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
-              <item name="v8" type="462c0819:PsiDirectoryNode" />
+              <item name="mukewang" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+              <item name="Test3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -688,26 +581,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamTestFuture">
+  <component name="RunManager" selected="Application.Test3">
     <configuration name="CompletableExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiankang.javaasynprogrampractice.chapter3.v3.CompletableExceptionTest" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jiankang.javaasynprogrampractice.chapter3.v3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.chapter14.v8.FutureTest" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.chapter14.v8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -728,12 +608,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.javaasynprogrampractice.chapter3.v1.Test1" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.mukewang.v2.Test" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.javaasynprogrampractice.chapter3.v1.*" />
+          <option name="PATTERN" value="com.jiankang.mukewang.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.mukewang.v2.Test3" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiankang.mukewang.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -755,19 +648,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FutureTest" />
-      <item itemvalue="Application.Test1" />
       <item itemvalue="Application.TestTwoCompletableFuture" />
       <item itemvalue="Application.CompletableExceptionTest" />
       <item itemvalue="Application.StreamTestFuture" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.StreamTestFuture" />
         <item itemvalue="Application.CompletableExceptionTest" />
         <item itemvalue="Application.TestTwoCompletableFuture" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.FutureTest" />
       </list>
     </recent_temporary>
   </component>
@@ -907,6 +800,8 @@
       <workItem from="1601121160510" duration="956000" />
       <workItem from="1601191010651" duration="1366000" />
       <workItem from="1601256364535" duration="134000" />
+      <workItem from="1601532295933" duration="4152000" />
+      <workItem from="1601953221002" duration="1336000" />
     </task>
     <servers />
   </component>
@@ -940,7 +835,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1242870000" />
+    <option name="totallyTimeSpent" value="1248358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -952,7 +847,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="1358" y="-315" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -960,16 +855,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.19178082" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.21520342" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.15952891" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49892932" weight="0.3673938" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49892932" weight="0.2647585" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010707" side_tool="true" weight="0.2870264" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.40068886" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32737032" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32737032" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39770114" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3770115" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.37567085" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.20551091" />
@@ -1541,39 +1436,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v4_20200823/v1/HeapOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="104" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v4_20200823/v1/UserBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v4_20200823/v2/Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v4_20200823/v2/VMStackOOM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
@@ -1868,16 +1730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v3/CompletableExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/CompletableFuture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61281">
@@ -1902,16 +1754,6 @@
           <folding>
             <element signature="e#124289#124290#0" expanded="true" />
             <element signature="e#124329#124330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v4/StreamTestFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="43" column="87" selection-start-line="43" selection-start-column="74" selection-end-line="43" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1958,6 +1800,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v4/StreamTestFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="43" column="87" selection-start-line="43" selection-start-column="74" selection-end-line="43" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v2/Test.java" />
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v2/Test.class" />
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaasynprogrampractice/chapter3/v3/CompletableExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/mukewang/v2/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
         </state>
       </provider>
     </entry>
