@@ -8,6 +8,7 @@ package com.jiankang.javaconcurrencybeauty.chapter1.v5;
 public class TestThreadLocal {
 
     public static ThreadLocal<String> threadLocal = new ThreadLocal<String>();
+    //这个可以子线程传递父线程的变量
     public static ThreadLocal<String> inheritableThreadLocal = new InheritableThreadLocal<>();
 
     public static void main(String[] args) {
