@@ -1,0 +1,7 @@
+call_update_oppountity
+
+
+机会：
+exhibition   ：   exhibition_oppotunity_list
+
+code_52_weeks：                  oppotunity _52_weeks_code
