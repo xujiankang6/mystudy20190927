@@ -1,4 +1,4 @@
-package com.jiankang.javaconcurrencybeauty.chapter7.v3;
+package com.jiankang.improvejava151suggests.chapter7.v3;
 
 /*
  *@create by jiankang
