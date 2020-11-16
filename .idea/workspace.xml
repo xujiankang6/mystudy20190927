@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/FatherImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/MotherImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v6/UtilsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v7/CloneUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter12/v1/Test344.java" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,143 +66,131 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v5/Client3.java">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/io/ByteArrayInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="224">
+              <caret line="102" column="11" selection-start-line="102" selection-start-column="11" selection-end-line="102" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#546#554#0" expanded="true" />
+                <element signature="e#621#629#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Employee.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Client2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            <state relative-caret-position="431">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v7/CloneUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="27" column="68" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="68" />
               <folding>
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
-                <element signature="e#809#810#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#876#877#0" expanded="true" />
-                <element signature="e#908#909#0" expanded="true" />
-                <element signature="e#945#946#0" expanded="true" />
-                <element signature="e#976#977#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1066#1067#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#465#495#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test2.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Daughter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="416">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#547#555#0" expanded="true" />
+                <element signature="e#510#646#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test2.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+              <folding>
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/FatherImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <folding>
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#628#1114#0" expanded="true" />
-                <element signature="e#1113#1114#0" expanded="true" />
-                <element signature="e#1236#1244#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test32.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Son.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="247">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#496#504#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v3/Test.java">
+        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v6/UtilsClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="476">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v5/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="28" column="80" lean-forward="true" selection-start-line="28" selection-start-column="80" selection-end-line="28" selection-end-column="80" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#545#555#0" expanded="true" />
-                <element signature="e#1069#1070#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#546#554#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#580#588#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -239,24 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter7/v11/JobPopulator.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter7/v11/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter8/v1/MyException.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter8/v1/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter8/v2/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v1/SpamMachine.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v2/TcpServer.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v2/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v3/UnsafeThread.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v3/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v4/TaxCalculator.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v4/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v5/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v6/Task.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v6/TaskWithLock.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v6/TaskWithSync.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v6/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v7/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v8/Foo.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v9/Foo.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v9/Client.java" />
@@ -283,13 +264,31 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v5/Client.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v5/Client3.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v3/Test.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Employee.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test2.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test32.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test2.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Employee.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/note" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v1/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v2/Person.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v2/Test.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v3/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v4/Calculator.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Mother.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/MotherImpl.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/FatherImpl.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Father.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Daughter.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v6/UtilsClass.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v7/CloneUtils.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Son.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Client.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Client2.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Person.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Employee.java" />
       </list>
     </option>
   </component>
@@ -299,7 +298,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1358" />
     <option name="y" value="-315" />
     <option name="width" value="1936" />
@@ -567,7 +566,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="improvejava151suggests" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -576,8 +575,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="improvejava151suggests" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-              <item name="v3" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -586,7 +585,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="improvejava151suggests" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
               <item name="v5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -596,7 +595,17 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="improvejava151suggests" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="v7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
+              <item name="improvejava151suggests" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
               <item name="v8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -703,6 +712,14 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -790,13 +807,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2 (1)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter5.v6.Test" />
+  <component name="RunManager" selected="Application.Client2">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter2.v4.Calculator" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter5.v6.*" />
+          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter2.v4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -804,12 +821,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter5.v7.Test" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter2.v3.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter5.v7.*" />
+          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter2.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -817,12 +834,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter5.v8.Test2" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter2.v8.Client" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter5.v8.*" />
+          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter2.v8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -830,12 +847,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter5.v7.Test2" />
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter2.v8.Client2" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter5.v7.*" />
+          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter2.v8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -843,12 +860,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter5.v7.Test32" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.improvejava151suggests.chapter2.v2.Test" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter5.v7.*" />
+          <option name="PATTERN" value="com.jiankang.improvejava151suggests.chapter2.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -857,19 +874,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.Test2" />
-      <item itemvalue="Application.Test32" />
-      <item itemvalue="Application.Test2 (1)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2 (1)" />
-        <item itemvalue="Application.Test32" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -1030,7 +1047,7 @@
       <workItem from="1604403356590" duration="18819000" />
       <workItem from="1604563423005" duration="8041000" />
       <workItem from="1604718859257" duration="23946000" />
-      <workItem from="1605080648015" duration="11014000" />
+      <workItem from="1605080648015" duration="25433000" />
     </task>
     <servers />
   </component>
@@ -1064,7 +1081,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1421478000" />
+    <option name="totallyTimeSpent" value="1435897000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1077,21 +1094,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-315" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.21413276" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.21413276" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.18254818" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49892932" weight="0.4856487" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5005353" side_tool="true" weight="0.39770114" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3272101" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32376578" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.2858783" />
       <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49946466" weight="0.36165327" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.37241378" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -1100,7 +1116,7 @@
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Sequence" order="12" weight="0.35043988" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.3295063" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.26406428" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.37772676" />
       <window_info anchor="right" id="PlantUML" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -1760,172 +1776,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4785">
-          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7986">
-          <caret line="276" column="11" selection-start-line="276" selection-start-column="11" selection-end-line="276" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v11/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v12/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v13/Clinet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/main.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter10/note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v14/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter9/v13/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/guava-19.0.jar!/com/google/common/collect/ArrayListMultimap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="e#987#988#0" expanded="true" />
-            <element signature="e#1033#1034#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/guava-19.0.jar!/com/google/common/collect/AbstractMapBasedMultimap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/guava-19.0.jar!/com/google/common/collect/AbstractListMultimap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-          <folding>
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1164#1165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/guava-19.0.jar!/com/google/common/collect/Multimap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="617" column="17" selection-start-line="617" selection-start-column="17" selection-end-line="617" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/guava-19.0.jar!/com/google/common/base/Joiner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
-          <folding>
-            <element signature="e#2930#2931#0" expanded="true" />
-            <element signature="e#2980#2981#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/guava-19.0.jar!/com/google/common/collect/ImmutableList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="72" column="126" selection-start-line="72" selection-start-column="126" selection-end-line="72" selection-end-column="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter10/v2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter10/v2/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1023">
-          <caret line="35" column="83" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter10/v1/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -2131,9 +1981,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1353">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#1114#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1236#1244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#546#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#496#504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#545#555#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="33">
           <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           <folding>
             <element signature="e#717#718#0" expanded="true" />
@@ -2153,33 +2062,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v6/Test.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v2/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="28" column="80" lean-forward="true" selection-start-line="28" selection-start-column="80" selection-end-line="28" selection-end-column="80" />
+        <state relative-caret-position="337">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#545#555#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test32.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v1/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="484">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#496#504#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v4/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="-81">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="28" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2188,37 +2115,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v7/Test.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/note">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        <state relative-caret-position="99">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#546#554#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Mother.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="171">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/MotherImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#580#588#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v8/Test2.java">
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/FatherImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Daughter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#510#646#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v6/UtilsClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/io/ByteArrayInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="102" column="11" selection-start-line="102" selection-start-column="11" selection-end-line="102" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v7/CloneUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="27" column="68" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="68" />
+          <folding>
+            <element signature="e#465#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#621#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#628#1114#0" expanded="true" />
-            <element signature="e#1113#1114#0" expanded="true" />
-            <element signature="e#1236#1244#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v8/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+          <folding>
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
           </folding>
         </state>
       </provider>
