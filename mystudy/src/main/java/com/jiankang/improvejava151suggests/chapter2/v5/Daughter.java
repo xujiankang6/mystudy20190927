@@ -1,0 +1,29 @@
+package com.jiankang.improvejava151suggests.chapter2.v5;
+
+/*
+ *@create by jiankang
+ *@date 2020/11/13 @time 19:36
+ */
+
+/**
+ * CHANGE ACTIVITY:
+ * <p>
+ * Reason      Version    Date        User        Description
+ * ------------ ---------- ----------- ----------- -------------------
+ * crm-7506        1.0       2020/11/13   jiankang    is_active状态更新
+ * <p>
+ * END CHANGE ACTIVITY
+ */
+
+
+public class Daughter extends MotherImpl implements Father {
+    @Override
+    public int strong() {
+        return new FatherImpl() {
+            @Override
+            public int strong() {
+                return super.strong() - 2;
+            }
+        }.strong();
+    }
+}

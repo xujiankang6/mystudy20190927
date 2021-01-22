@@ -1,0 +1,6 @@
+通过jps -l 找到程序的进程号
+启动jhsdb,需要到C:\Program Files (x86)\Java\jdk1.8.0_211
+目录下执行：java -cp .\sa-jdi.jar sun.jvm.hotspot.HSDB
+打开windows里面的windows输入 universe显示出来GC日志
+输入：0x05000000为eden第一个， 0x0530000为from里最后一个
+scanoops 0x05000000   0x05300000 com.jiankang.depthunderstandjavavirtualmachine.chapter4.v3.JHSDB_TestCase$ObjectHolder

@@ -1,7 +1,7 @@
 package com.jiankang.otherstudy.v3.v1;
 
 /**
- * Test
+ * LogTest
  *
  * @author jiankang.xu
  * @date 2020/3/14

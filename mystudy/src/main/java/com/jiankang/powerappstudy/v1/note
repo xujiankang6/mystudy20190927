@@ -1,0 +1,44 @@
+1、pa的一个优点是允许连接很多数据源在一个单一的应用。
+2、Dataverse允许数据存储在一系列实体中，实体是一组用来存储数据的记录。
+3、使用Dataverse的原因：
+（1）简单管理
+（2）有利于保护数据
+（3）访问你的动态365数据
+（4）元数据
+（5）逻辑与验证
+（6）生产力工具
+4、Power Automate 可以配置任何流程去开始你的解决方案
+5、Power BI  是Power Platform中一个数据分析工具
+6、通过Power Query编辑器，可搜索数据源，再对数据进行调整，例如删除列，更改数据类型或合并表
+7、将“字段”列表中的任何字段拖到画布的开发空白区域（在报表视图中）,将自动为该数据类型创建默认的视觉对象
+8、利用Power BI Desktop,可以使用“获取数据”将数据从网页导入报表并创建可视化效果。
+9、power platform包括四个产品：Power apps ，Power BI ,Power Automate,Power Virtual Agents(玩求 A金词).
+10、Data Connectors's Data Sources的连接的数据类型是基于表格式的和基于函数的数据
+11、当我们创建一个表，能创建的关系类型有one-to-many和many-to-many.
+12、dynamics 365 控制对表的访问
+13、在form中添加iframes，将另一个网站的内容添加进来
+14、可以为给定的实体创建多个快速创建表单，但最终用户只能使用第一个顺序表单。
+15、使用card卡片表单类型在仪表板上显示表单数据
+16、桌面流可以在Windows和Web应用程序中自动化重复任务
+17、为Al Builder使用power automate的目的是大规模自动使用Al模型
+18、通过在流中增加新步骤选Al Builder action加Al功能
+19、hotel receipts and invoices 不支持Al Builder的接收处理
+20、使用Al Builder的接收处理不需要提前配置
+21、Form processing model 不能在模型驱动应用(model-driven apps)中使用
+22、内置的环境角色有系统管理员（System Administrator）和环境制作者（Environment Maker）
+23、当用户被添加到环境中，默认为其分配Dataverse User和Environment Maker
+24、如果想要可以创建新实体就需要增加一个System Customizer role
+25、一个用户被添加到环境中，自动获得Basic User角色和Environment Maker角色
+26、Class Administration Center是最全面的门户
+27、Power Apps Advanced Customization提供一个快速的方式增加用户和设置权限
+28、一个Dataverse环境可以包含power apps、Power Automate flows和A single Dataverse database
+29、P2许可证可以访问standard，custom和包含复杂逻辑的实体
+30、Multi Select Option Set会展示一个选项列表，并可以多选
+31、Local option sets只能在定义他的entity上使用,不能在其他实体重用
+32、定义一个field或者在多选模块可以新建多选option set
+33、Power apps有三种类型的变量,分别为Global variable,Context variables,Collections
+
+
+
+
+
