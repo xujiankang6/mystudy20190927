@@ -1,0 +1,11 @@
+1、
+http://localhost:8098/actuator/configprops
+查看配置属性报告
+2、http://localhost:8098/actuator/env
+可以生成应用程序可用的所有环境属性列表
+3、http://localhost:8098/actuator/env/server.port
+获取单个属性的值
+4、http://localhost:8098/actuator/beans
+查看Spring应用程序上下文都有哪些bean
+5、http://localhost:8098/actuator/mappings
+查看所有的请求端点，就是应用程序可以调用的所有接口

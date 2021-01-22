@@ -5,43 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa198904-55ec-4cd3-926d-11a53789269d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v1/HttpComponentsClientHttpRequestFactoryBasicAuthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/FormattingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/LocalDateTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/LocalTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/TimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/ZoneOffSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/ZonedDateTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v3/NowTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v4/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter7/v1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter7/v1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter8/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/powerappstudy/v1/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/springpracticesversion5/chapter7/note" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.intellij.rt.execution.application.AppMainV2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.jiankang.depthunderstandjavavirtualmachine.chapter3.v5.DeadThreadTest$SynAddRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.jiankang.depthunderstandjavavirtualmachine.chapter3.v5.DeadThreadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.sun.jmx.remote.internal.ServerCommunicatorAdmin$Timeout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.io.DeleteOnExitHook$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.lang.ApplicationShutdownHooks$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.lang.ref.Finalizer$FinalizerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.lang.ref.Reference$ReferenceHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.lang.reflect.Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.util.concurrent.FutureTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.util.concurrent.ThreadPoolExecutor$Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.util.logging.LogManager$Cleaner.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mystudy/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mystudy/src/main/main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/production/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/production/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun.nio.ch.FileChannelImpl$Unmapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun.nio.fs.NativeBuffer$Deallocator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun.rmi.transport.DGCAckHandler$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun.rmi.transport.DGCImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun.rmi.transport.tcp.TCPTransport$AcceptLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/../springStudy/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,8 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Father.java" />
-        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Daughter.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v6/UtilsClass.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v7/CloneUtils.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter2/v5/Son.java" />
@@ -170,6 +141,8 @@
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/ZoneOffSetTest.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/FormattingTest.java" />
         <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v3/NowTimeTest.java" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/springpracticesversion5/chapter7/note" />
+        <option value="$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v4/note" />
       </list>
     </option>
   </component>
@@ -179,12 +152,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1358" />
     <option name="y" value="-315" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="1mUqniVOc0FijC8QSOIdbHPq5UV" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -349,7 +323,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -390,35 +363,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="v7_20201203" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="v7_20201203" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="v7_20201203" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="v8_20201215" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -427,9 +371,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="v8_20201215" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
+              <item name="springpracticesversion5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -437,157 +379,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="v8_20201215" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="v8_20201215" type="462c0819:PsiDirectoryNode" />
-              <item name="v3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="depthunderstandjavavirtualmachine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="depthunderstandjavavirtualmachine" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="depthunderstandjavavirtualmachine" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-              <item name="v5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="depthunderstandjavavirtualmachine" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-              <item name="v6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="depthunderstandjavavirtualmachine" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-              <item name="v7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-              <item name="resposibilitychainmethod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="designismethod2" type="462c0819:PsiDirectoryNode" />
-              <item name="resposibilitychainmethod" type="462c0819:PsiDirectoryNode" />
-              <item name="V2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="improvejava151suggests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="improvejava151suggests" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="improvejava151suggests" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
-              <item name="dchapter10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
-              <item name="dchapter10" type="462c0819:PsiDirectoryNode" />
-              <item name="v3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiankang" type="462c0819:PsiDirectoryNode" />
-              <item name="javacoretechnologythetenversion" type="462c0819:PsiDirectoryNode" />
-              <item name="dchapter10" type="462c0819:PsiDirectoryNode" />
-              <item name="v10" type="462c0819:PsiDirectoryNode" />
+              <item name="springpracticesversion5" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mystudy20190927" type="b2602c69:ProjectViewProjectNode" />
@@ -797,7 +590,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -811,7 +609,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/mystudy/src/test/java/com/jiankang" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jar/httpclient-4.5.11.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jar/commons-beanutils-1.9.3.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -819,7 +617,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -858,25 +656,13 @@
       <recent name="com.jiankang.designismethod2.statuspattern.v2" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.FormattingTest">
-    <configuration name="FormattingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.blog.v8_20201215.v2.FormattingTest" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BeanUtilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.javacoretechnologythetenversion.dchapter8.v3.BeanUtilTest" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.blog.v8_20201215.v2.*" />
+          <option name="PATTERN" value="com.jiankang.javacoretechnologythetenversion.dchapter8.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -884,8 +670,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDateTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.blog.v8_20201215.v2.LocalDateTimeTest" />
+    <configuration name="FormattingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.blog.v8_20201215.v2.FormattingTest" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -910,12 +696,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZoneOffSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.blog.v8_20201215.v2.ZoneOffSetTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.javaconcurrencybeauty.chapter7.v1.Test" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiankang.blog.v8_20201215.v2.*" />
+          <option name="PATTERN" value="com.jiankang.javaconcurrencybeauty.chapter7.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -923,8 +709,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZonedDateTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiankang.blog.v8_20201215.v2.ZonedDateTimeTest" />
+    <configuration name="ZoneOffSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiankang.blog.v8_20201215.v2.ZoneOffSetTest" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -945,22 +731,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.FormattingTest" />
-      <item itemvalue="Application.LocalDateTimeTest" />
       <item itemvalue="Application.NowTimeTest" />
       <item itemvalue="Application.ZoneOffSetTest" />
-      <item itemvalue="Application.ZonedDateTimeTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.BeanUtilTest" />
       <item itemvalue="Spring Boot.StudyApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BeanUtilTest" />
         <item itemvalue="Application.FormattingTest" />
         <item itemvalue="Application.NowTimeTest" />
         <item itemvalue="Application.ZoneOffSetTest" />
-        <item itemvalue="Application.ZonedDateTimeTest" />
-        <item itemvalue="Application.LocalDateTimeTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
   </component>
@@ -1134,6 +921,16 @@
       <workItem from="1607499147306" duration="7817000" />
       <workItem from="1608010272652" duration="22457000" />
       <workItem from="1608176412695" duration="9799000" />
+      <workItem from="1608723759817" duration="2451000" />
+      <workItem from="1609242377343" duration="3271000" />
+      <workItem from="1609558719112" duration="162000" />
+      <workItem from="1609558916752" duration="222000" />
+      <workItem from="1609559192850" duration="9704000" />
+      <workItem from="1609847178913" duration="954000" />
+      <workItem from="1609922405206" duration="81000" />
+      <workItem from="1609988876173" duration="7755000" />
+      <workItem from="1610540656622" duration="1398000" />
+      <workItem from="1611050179916" duration="12680000" />
     </task>
     <servers />
   </component>
@@ -1167,7 +964,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1546020000" />
+    <option name="totallyTimeSpent" value="1551742000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1179,7 +976,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-315" width="1936" height="1056" extended-state="0" />
+    <frame x="1358" y="-315" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -1187,10 +984,10 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.4340836" side_tool="true" weight="0.12313433" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.19325481" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.56601125" visible="true" weight="0.19860813" />
       <window_info id="Structure" order="6" sideWeight="0.43398875" weight="0.18498659" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49892932" weight="0.45005742" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49892932" visible="true" weight="0.37657866" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5005353" side_tool="true" weight="0.39770114" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -1264,29 +1061,14 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -1305,6 +1087,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1312,470 +1095,437 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/singleinstance/v2/Emperor.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/factorymethod/v3/Test.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/observablepattern/v4/Client.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Client.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/mementopattern/v4/Client.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v4/Client.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v2/Client.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/statuspattern/v3/Client.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/headfirstdesign/modetolmodel/v1/DuckSimulator3.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/resposibilitychainmethod/V2/Handler.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/interpreterpattern/Client.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/interpreterpattern/Calculator.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/interpreterpattern/Client.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/flyweightpattern/v3/Client.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/flyweightpattern/v3/MultiThread.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/behavorpatternpk/v5/DnsServer.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/effectivejavasecondedition/chapter2/v5/Stack.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/effectivejavasecondedition/chapter3/v7/PhoneNumber.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/accesswarpk/v7/Client.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaapi/v1_enumstudy/Deal.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaapi/v1_enumstudy/Deal.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v1/SelectQueueTest.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java</url>
           <line>121</line>
-          <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/datastructure/v2/Node.java</url>
           <line>132</line>
-          <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/otherstudy/deepclone/Test.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/otherstudy/v1/TestUrlUtil.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/otherstudy/v1/TestUrlUtil.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/otherstudy/v3/v2/Test.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter22/v3/SimpleFormatter.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter22/v3/SimpleFormatter.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter22/v4/SimpleContainer.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v4/Test.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v4/CGLibContainer.java</url>
           <line>129</line>
-          <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v4/CGLibContainer.java</url>
           <line>116</line>
-          <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v4/CGLibContainer.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v4/CGLibContainer.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v4/CGLibContainer.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v4/CGLibContainer.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v3/SimpleCGLDemo.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v3/SimpleCGLDemo.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v3/SimpleCGLDemo.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter23/v3/SimpleCGLDemo.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v3/HotDeployDemo.java</url>
           <line>88</line>
-          <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter24/v3/HotDeployDemo.java</url>
           <line>89</line>
-          <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v3/TestSomeTask.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaprogramminglogic/chapter26/v3/TestSomeTask.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/math/BigInteger.java</url>
           <line>3367</line>
-          <properties />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/ObjectAnalyzer.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/ObjectAnalyzer.java</url>
           <line>58</line>
-          <properties />
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/ArrayDemo.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter5/v6/ArrayDemo.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter6/v7/TraceHandler.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter14/v8/MatchCounter.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter10/v3/DeprecatedTest.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter10/v3/DeprecatedTest.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter10/v5/AnnotationTest.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter10/v5/AnnotationTest.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/dchapter10/v7/PersonTest.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javacoretechnologythetenversion/chapter14/v10/Counter.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter1/v3/YieldTest.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter6/v2/FIFOMutex.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter6/v2/FIFOMutex.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter6/v6/Test.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter6/v6/BirdNest.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter7/v5/DecorateAnimal.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter7/v5/Test.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter7/v5/Animal.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/AbstractList.java</url>
           <line>233</line>
-          <properties />
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/AbstractList.java</url>
           <line>567</line>
-          <properties />
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/AbstractList.java</url>
           <line>485</line>
-          <properties />
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/improvejava151suggests/chapter5/v5/Client3.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/AbstractList.java</url>
           <line>644</line>
-          <properties />
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/depthunderstandjavavirtualmachine/chapter3/v1/FinalizeEscapeGC.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/depthunderstandjavavirtualmachine/chapter3/v1/FinalizeEscapeGC.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/depthunderstandjavavirtualmachine/chapter4/v3/JHSDB_TestCase.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/depthunderstandjavavirtualmachine/chapter4/v4/ThreadTest.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ArrayBlockingQueue.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ArrayBlockingQueue.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter7/v1/Test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter7/v1/Test.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ArrayBlockingQueue.java</url>
+          <line>324</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ArrayBlockingQueue.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter7/v1/Test.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter7/v1/Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/javaconcurrencybeauty/chapter7/v1/Test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/designismethod2/visitorpattern/v1/IVisitor.java</url>
@@ -1817,11 +1567,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mystudy20190927$Demo__1_.ic" NAME="Demo (1) Coverage Results" MODIFIED="1570504623212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.jiankang.localtime.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/mystudy20190927$HeapOOM.ic" NAME="HeapOOM Coverage Results" MODIFIED="1598321842875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jiankang.blog.v4_20200823.v1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mystudy20190927$Demo__1_.ic" NAME="Demo (1) Coverage Results" MODIFIED="1570504623212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jiankang.localtime.*</FILTER>
     </SUITE>
   </component>
   <component name="debuggerHistoryManager">
@@ -1886,20 +1636,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33495">
-          <caret line="1073" column="32" selection-start-line="1073" selection-start-column="32" selection-end-line="1073" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v6_20200918/v1/JavaFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
@@ -2011,13 +1747,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.4.RELEASE/spring-web-5.2.4.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1554">
-          <caret line="226" column="23" selection-start-line="226" selection-start-column="23" selection-end-line="226" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.4.RELEASE/spring-web-5.2.4.RELEASE.jar!/org/springframework/web/client/RestTemplate.class" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/net/URI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -2107,16 +1837,6 @@
             <element signature="e#4097#4098#0" expanded="true" />
             <element signature="e#5723#5724#0" expanded="true" />
             <element signature="e#5765#5766#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v1/HttpComponentsClientHttpRequestFactoryBasicAuthTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="43" column="108" selection-start-line="43" selection-start-column="108" selection-end-line="43" selection-end-column="108" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2226,13 +1946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v1/RestTemplateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v2/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
@@ -2339,6 +2052,37 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v1/HttpComponentsClientHttpRequestFactoryBasicAuthTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v1/RestTemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/blog/v8_20201215/v4/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystudy/src/main/java/com/jiankang/springpracticesversion5/chapter7/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
