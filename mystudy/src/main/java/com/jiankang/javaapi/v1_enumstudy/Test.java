@@ -23,11 +23,8 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        for(Coin c:Coin.values()){
-            System.out.println(c + "\t\t"+c.getValue()+"\t"+color(c));
-        }
-        Coin[] values = Coin.values();
-        System.out.println(Arrays.asList(values));
-        System.out.println(Coin.valueOf("aaa"));
+        Coin aaa = Coin.valueOf("aaa");
+        System.out.println(color(aaa));
+
     }
 }
