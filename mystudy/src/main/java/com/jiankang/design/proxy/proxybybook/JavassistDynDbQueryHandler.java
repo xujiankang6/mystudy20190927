@@ -16,6 +16,7 @@ public class JavassistDynDbQueryHandler implements MethodHandler {
     public Object invoke(Object o, Method method, Method method1, Object[] objects) throws Throwable {
         if (real == null) {
             real = new DBQuery();
+
         }
         return real.request();
     }
