@@ -13,11 +13,9 @@ public class Test {
         //查出原来编码是什么类型，被错误解读为什么
         String str = "ÀÏÂí";
         RecoverCodeUtils.recover(str);
-
         //正常解码：
         String gb18030 = new String(str.getBytes("windows-1252"), "GB18030");
         System.out.println(gb18030);
-
 
     }
 }
